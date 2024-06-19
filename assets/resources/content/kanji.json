@@ -1,0 +1,1003 @@
+{
+    "lessons": [
+        {
+            "id": 20000,
+            "number": 1,
+            "title": "Kanji 1",
+            "startGradientColor": "#2193b0",
+            "endGradientColor": "#6dd5ed",
+            "content": [
+                {
+                    "id": "one",
+                    "kanji": "一",
+                    "meanings": [
+                        "Uno"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "イチ"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "ひと"
+                        }
+                    ]
+                },
+                {
+                    "id": "two",
+                    "kanji": "ニ",
+                    "meanings": [
+                        "Dos"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "ニ"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "ふた"
+                        }
+                    ]
+                },
+                {
+                    "id": "three",
+                    "kanji": "三",
+                    "meanings": [
+                        "Tres"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "サン"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "み"
+                        }
+                    ]
+                },
+                {
+                    "id": "four",
+                    "kanji": "四",
+                    "meanings": [
+                        "Cuatro"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "シ"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "よん"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "よ"
+                        }
+                    ]
+                },
+                {
+                    "id": "five",
+                    "kanji": "五",
+                    "meanings": [
+                        "Cinco"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "ゴ"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "いつ"
+                        }
+                    ]
+                },
+                {
+                    "id": "six",
+                    "kanji": "六",
+                    "meanings": [
+                        "Seis"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "ロク"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "む"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "むい"
+                        }
+                    ]
+                },
+                {
+                    "id": "seven",
+                    "kanji": "七",
+                    "meanings": [
+                        "Siete"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "シチ"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "なな"
+                        }
+                    ]
+                },
+                {
+                    "id": "eight",
+                    "kanji": "八",
+                    "meanings": [
+                        "Ocho"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "ハチ"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "や"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "よう"
+                        }
+                    ]
+                },
+                {
+                    "id": "nine",
+                    "kanji": "九",
+                    "meanings": [
+                        "Nueve"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "キュウ"
+                        },
+                        {
+                            "type": "onyomi",
+                            "furigana": "ク"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "ここの"
+                        }
+                    ]
+                },
+                {
+                    "id": "ten",
+                    "kanji": "十",
+                    "meanings": [
+                        "Diez"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "ジュウ"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "とお"
+                        }
+                    ]
+                },
+                {
+                    "id": "zero",
+                    "kanji": "零",
+                    "meanings": [
+                        "Cero"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "レイ"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "ぜろ"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 20001,
+            "number": 2,
+            "title": "Kanji 2",
+            "startGradientColor": "#ff7e5f",
+            "endGradientColor": "#feb47b",
+            "content": [
+                {
+                    "id": "person",
+                    "kanji": "人",
+                    "meanings": [
+                        "Persona"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "ジン"
+                        },
+                        {
+                            "type": "onyomi",
+                            "furigana": "ニン"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "ひと"
+                        }
+                    ]
+                },
+                {
+                    "id": "name",
+                    "kanji": "名",
+                    "meanings": [
+                        "Nombre"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "メイ"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "な"
+                        }
+                    ]
+                },
+                {
+                    "id": "person_formal",
+                    "kanji": "方",
+                    "meanings": [
+                        "Persona",
+                        "Modo de",
+                        "Dirección"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "ホウ"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "かた"
+                        }
+                    ]
+                },
+                {
+                    "id": "book",
+                    "kanji": "本",
+                    "meanings": [
+                        "Libro",
+                        "Origen"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "ホン"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "もと"
+                        }
+                    ]
+                },
+                {
+                    "id": "sun",
+                    "kanji": "日",
+                    "meanings": [
+                        "Sol",
+                        "Día"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "ニチ"
+                        },
+                        {
+                            "type": "onyomi",
+                            "furigana": "ジツ"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "ひ"
+                        }
+                    ]
+                },
+                {
+                    "id": "what",
+                    "kanji": "何",
+                    "meanings": [
+                        "Qué"
+                    ],
+                    "readings": [
+                        {
+                            "type": "kunyomi",
+                            "furigana": "なに"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "なん"
+                        }
+                    ]
+                },
+                {
+                    "id": "big",
+                    "kanji": "大",
+                    "meanings": [
+                        "Grande"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "ダイ"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "おお"
+                        }
+                    ]
+                },
+                {
+                    "id": "learn",
+                    "kanji": "学",
+                    "meanings": [
+                        "Aprender"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "ガク"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "まな"
+                        }
+                    ]
+                },
+                {
+                    "id": "meeting",
+                    "kanji": "会",
+                    "meanings": [
+                        "Reunirse",
+                        "Encontrarse"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "カイ"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "あ"
+                        }
+                    ]
+                },
+                {
+                    "id": "company",
+                    "kanji": "社",
+                    "meanings": [
+                        "Empresa"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "シャ"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 20002,
+            "number": 3,
+            "title": "Kanji 3",
+            "startGradientColor": "#56ab2f",
+            "endGradientColor": "#a8e063",
+            "content": [
+                {
+                    "id": "before",
+                    "kanji": "先",
+                    "meanings": [
+                        "Antes",
+                        "Adelante",
+                        "Punta"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "セン"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "さき"
+                        }
+                    ]
+                },
+                {
+                    "id": "life",
+                    "kanji": "生",
+                    "meanings": [
+                        "Vida",
+                        "Nacer",
+                        "Estudiante"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "セイ"
+                        },
+                        {
+                            "type": "onyomi",
+                            "furigana": "ショウ"
+                        },
+                        {
+                            "type": "onyomi",
+                            "furigana": "ジョウ"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "う"
+                        }
+                    ]
+                },
+                {
+                    "id": "go",
+                    "kanji": "行",
+                    "meanings": [
+                        "Ir"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "コウ"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "い"
+                        }
+                    ]
+                },
+                {
+                    "id": "come",
+                    "kanji": "来",
+                    "meanings": [
+                        "Venir"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "ライ"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "き"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "く"
+                        }
+                    ]
+                },
+                {
+                    "id": "oneself",
+                    "kanji": "自",
+                    "meanings": [
+                        "Uno mismo"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "ジ"
+                        }
+                    ]
+                },
+                {
+                    "id": "car",
+                    "kanji": "車",
+                    "meanings": [
+                        "Coche",
+                        "Rueda"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "シャ"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "くるま"
+                        }
+                    ]
+                },
+                {
+                    "id": "hundred",
+                    "kanji": "百",
+                    "meanings": [
+                        "Cien"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "ヒャク"
+                        },
+                        {
+                            "type": "onyomi",
+                            "furigana": "ビャク"
+                        },
+                        {
+                            "type": "onyomi",
+                            "furigana": "ピャク"
+                        }
+                    ]
+                },
+                {
+                    "id": "thousand",
+                    "kanji": "千",
+                    "meanings": [
+                        "Mil"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "セン"
+                        },
+                        {
+                            "type": "onyomi",
+                            "furigana": "ゼン"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "ち"
+                        }
+                    ]
+                },
+                {
+                    "id": "ten_thousand",
+                    "kanji": "万",
+                    "meanings": [
+                        "Diez mil"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "マン"
+                        }
+                    ]
+                },
+                {
+                    "id": "yen",
+                    "kanji": "円",
+                    "meanings": [
+                        "Yen"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "エン"
+                        }
+                    ]
+                },
+                {
+                    "id": "each",
+                    "kanji": "毎",
+                    "meanings": [
+                        "Cada"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "マイ"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 20003,
+            "number": 4,
+            "title": "Kanji 4",
+            "startGradientColor": "#753a88",
+            "endGradientColor": "#cc2b5e",
+            "content": [
+                {
+                    "id": "hour",
+                    "kanji": "時",
+                    "meanings": [
+                        "Hora",
+                        "Tiempo",
+                        "Momento"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "ジ"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "とき"
+                        }
+                    ]
+                },
+                {
+                    "id": "minute",
+                    "kanji": "分",
+                    "meanings": [
+                        "Minuto",
+                        "Entender",
+                        "Dividir"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "フン"
+                        },
+                        {
+                            "type": "onyomi",
+                            "furigana": "ブン"
+                        },
+                        {
+                            "type": "onyomi",
+                            "furigana": "プン"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "わ"
+                        }
+                    ]
+                },
+                {
+                    "id": "half",
+                    "kanji": "半",
+                    "meanings": [
+                        "Mitad",
+                        "Medio"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "ハン"
+                        }
+                    ]
+                },
+                {
+                    "id": "country",
+                    "kanji": "国",
+                    "meanings": [
+                        "País"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "コク"
+                        },
+                        {
+                            "type": "onyomi",
+                            "furigana": "ゴク"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "くに"
+                        }
+                    ]
+                },
+                {
+                    "id": "write",
+                    "kanji": "書",
+                    "meanings": [
+                        "Escribir"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "ショ"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "か"
+                        }
+                    ]
+                },
+                {
+                    "id": "moon",
+                    "kanji": "月",
+                    "meanings": [
+                        "Luna"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "ゲツ"
+                        },
+                        {
+                            "type": "onyomi",
+                            "furigana": "ガツ"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "つき"
+                        }
+                    ]
+                },
+                {
+                    "id": "fire",
+                    "kanji": "火",
+                    "meanings": [
+                        "Fuego"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "カ"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "ひ"
+                        }
+                    ]
+                },
+                {
+                    "id": "water",
+                    "kanji": "水",
+                    "meanings": [
+                        "Agua"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "スイ"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "みず"
+                        }
+                    ]
+                },
+                {
+                    "id": "tree",
+                    "kanji": "木",
+                    "meanings": [
+                        "Árbol"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "モク"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "き"
+                        }
+                    ]
+                },
+                {
+                    "id": "money",
+                    "kanji": "金",
+                    "meanings": [
+                        "Oro",
+                        "Dinero"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "キン"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "かね"
+                        }
+                    ]
+                },
+                {
+                    "id": "earth",
+                    "kanji": "土",
+                    "meanings": [
+                        "Tierra"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "ド"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "つち"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 20004,
+            "number": 5,
+            "title": "Kanji 5",
+            "startGradientColor":"#b57133",
+            "endGradientColor":"#d99d5d",
+            "content": [
+                {
+                    "id": "friend",
+                    "kanji": "友",
+                    "meanings": [
+                        "Amigo"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "ユウ"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "とも"
+                        }
+                    ]
+                },
+                {
+                    "id": "year",
+                    "kanji": "年",
+                    "meanings": [
+                        "Año"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "ネン"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "とし"
+                        }
+                    ]
+                },
+                {
+                    "id": "now",
+                    "kanji": "今",
+                    "meanings": [
+                        "Ahora"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "コン"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "いま"
+                        }
+                    ]
+                },
+                {
+                    "id": "week",
+                    "kanji": "週",
+                    "meanings": [
+                        "Semana"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "シュウ"
+                        }
+                    ]
+                },
+                {
+                    "id": "rest",
+                    "kanji": "休",
+                    "meanings": [
+                        "Descansar"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "キュウ"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "やす"
+                        }
+                    ]
+                },
+                {
+                    "id": "in_front",
+                    "kanji": "前",
+                    "meanings": [
+                        "Delante",
+                        "Antes",
+                        "Anterior"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "ゼン"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "まえ"
+                        }
+                    ]
+                },
+                {
+                    "id": "midday",
+                    "kanji": "午",
+                    "meanings": [
+                        "Mediodía"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "ゴ"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "うま"
+                        }
+                    ]
+                },
+                {
+                    "id": "behind",
+                    "kanji": "後",
+                    "meanings": [
+                        "Detrás",
+                        "Atrás",
+                        "Después"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "ゴ"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "うし"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "あと"
+                        }
+                    ]
+                },
+                {
+                    "id": "school",
+                    "kanji": "校",
+                    "meanings": [
+                        "Colegio"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "コウ"
+                        }
+                    ]
+                },
+                {
+                    "id": "come_back",
+                    "kanji": "帰",
+                    "meanings": [
+                        "Volver",
+                        "Regresar"
+                    ],
+                    "readings": [
+                        {
+                            "type": "onyomi",
+                            "furigana": "キ"
+                        },
+                        {
+                            "type": "kunyomi",
+                            "furigana": "かえ"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
