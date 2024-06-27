@@ -7,19 +7,12 @@ window.addEventListener('load', function () {
             var response = JSON.parse(xmlhttp.responseText);
             var buildNumber = response.build_number;
             var currentBuildNumber = window.localStorage.getItem('buildNumber');
-
-            var shouldDeleteCache = currentBuildNumber && currentBuildNumber != buildNumber;
             
-            if (shouldDeleteCache) {
-                caches.delete('flutter-app-manifest');
-                caches.delete('flutter-temp-cache');
-                caches.delete('flutter-app-cache');
-            }
-
-            window.localStorage.setItem('buildNumber', buildNumber);
-
-            if (shouldDeleteCache) {
-                location.reload();
+            if (currentBuildNumber && currentBuildNumber != buildNumber) {
+                caches.delete('flutter-app-cache').then(() => {
+                    window.localStorage.setItem('buildNumber', buildNumber);
+                    location.reload(true);
+                });
             }
         }
     };
