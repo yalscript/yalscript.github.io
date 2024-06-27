@@ -8,13 +8,19 @@ window.addEventListener('load', function () {
             var buildNumber = response.build_number;
             var currentBuildNumber = window.localStorage.getItem('buildNumber');
 
-            if (currentBuildNumber && currentBuildNumber != buildNumber) {
+            var shouldDeleteCache = currentBuildNumber && currentBuildNumber != buildNumber;
+            
+            if (shouldDeleteCache) {
                 caches.delete('flutter-app-manifest');
                 caches.delete('flutter-temp-cache');
                 caches.delete('flutter-app-cache');
             }
 
             window.localStorage.setItem('buildNumber', buildNumber);
+
+            if (shouldDeleteCache) {
+                location.reload();
+            }
         }
     };
     xmlhttp.send();
