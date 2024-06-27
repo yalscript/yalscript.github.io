@@ -79,5 +79,17 @@
   "chapter_number": "Capítulo {0}",
   "unexpected_error": "Ha habido un error inesperado.",
   "searcher": "Buscador",
-  "searcher_button_description": "Busca palabras para obtener toda la información que necesites"
+  "searcher_button_description": "Busca palabras para obtener toda la información que necesites",
+  "features": "Características",
+  "about_us": "Sobre nosotros",
+  "app_description_section_text": "Descubre la belleza del idioma japonés con Nekolingo, la aplicación definitiva para dominar el japonés. Ya seas principiante o tengas un nivel más avanzado, la app ofrece una experiencia divertida, interactiva e inmersiva adaptada a tus necesidades.",
+  "start": "Empezar",
+  "app_features_section_text": "Nekolingo te permitirá aprender a escribir los silabarios del idioma japonés, estudiar su gramática, descubrir el fascinante mundo de los kanji, practicar lo que has aprendido jugando con el pequeño Neko, ¡y mucho más!\n\nÚnete a Neko en este viaje lingüístico y explora todo lo que el idioma japonés tiene para ofrecer.",
+  "study_grammar": "Estudia grámatica",
+  "learn_kanji": "Aprende kanji",
+  "practice_playing": "Practica jugando",
+  "unlock_achievements": "Desbloquea logros",
+  "app_download_section_text": "Además de la versión web, Nekolingo también está disponible en la Play Store.",
+  "get_it_on_play_store": "Descargar en Play Store",
+  "app_about_us_section_text": "Nekolingo está siendo desarrollado por Luciano Burgos en Barcelona, España. Creada con pasión y precisión, la aplicación aprovecha el poder de Flutter para proporcionar una experiencia de aprendizaje fluida y hermosa en todos tus dispositivos.\n\n¿Por qué Nekolingo?\n\n· Aprendizaje Interactivo: Sumérgete en lecciones interactivas que cubren todo, desde la escritura de silabarios hasta el dominio de la gramática y los kanji.\n\n· Divertido y Atractivo: Aprende con Neko, la mascota más adorable, y disfruta de juegos y actividades que hacen que aprender sea divertido."
 }
