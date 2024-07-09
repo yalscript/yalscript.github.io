@@ -93,5 +93,12 @@
   "unlock_achievements": "Desbloquea logros",
   "app_download_section_text": "Además de la versión web, Nekolingo también está disponible en la Play Store.",
   "get_it_on_play_store": "Descargar en Play Store",
-  "app_about_us_section_text": "Nekolingo está siendo desarrollado por Luciano Burgos en Barcelona, España. Creada con pasión y precisión, la aplicación aprovecha el poder de Flutter para proporcionar una experiencia de aprendizaje fluida y hermosa en todos tus dispositivos.\n\n¿Por qué Nekolingo?\n\n· Aprendizaje Interactivo: Sumérgete en lecciones interactivas que cubren todo, desde la escritura de silabarios hasta el dominio de la gramática y los kanji.\n\n· Divertido y Atractivo: Aprende con Neko, la mascota más adorable, y disfruta de juegos y actividades que hacen que aprender sea mucho más entretenido."
+  "app_about_us_section_text": "Nekolingo está siendo desarrollado por Luciano Burgos en Barcelona, España. Creada con pasión y precisión, la aplicación aprovecha el poder de Flutter para proporcionar una experiencia de aprendizaje fluida y hermosa en todos tus dispositivos.\n\n¿Por qué Nekolingo?\n\n· Aprendizaje Interactivo: Sumérgete en lecciones interactivas que cubren todo, desde la escritura de silabarios hasta el dominio de la gramática y los kanji.\n\n· Divertido y Atractivo: Aprende con Neko, la mascota más adorable, y disfruta de juegos y actividades que hacen que aprender sea mucho más entretenido.",
+  "flappy_neko": "Flappy Neko",
+  "flappy_neko_description": "Recoge los kanas correctos y esquiva los demás",
+  "searcher_english_japanese": "Buscador (inglés / japonés)",
+  "searcher_available_thanks_to_jisho": "Este buscador ha sido posible gracias a",
+  "searcher_more_info_in_jisho_website": "Para más información, podéis visitar su página web haciendo click sobre el logo.",
+  "next": "Siguiente",
+  "repeat": "Repetir"
 }

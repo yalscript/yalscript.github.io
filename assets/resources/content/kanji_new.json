@@ -1,0 +1,2863 @@
+{
+    "kanjis": [
+        {
+            "kanji": "一",
+            "strokes": 1,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "One"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Uno"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "ichi",
+                        "itsu"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "hito-tsu"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "二",
+            "strokes": 2,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Two"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Dos"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "ni",
+                        "ji"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "futa-tsu"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "三",
+            "strokes": 3,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Three"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Tres"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "san"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "mit-tsu"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "四",
+            "strokes": 5,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Four"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Cuatro"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "shi"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "yot-tsu",
+                        "yon"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "五",
+            "strokes": 4,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Five"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Cinco"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "go"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "itsu-tsu"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "六",
+            "strokes": 4,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Six"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Seis"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "roku"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "mut-tsu"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "七",
+            "strokes": 2,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Seven"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Siete"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "shichi"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "nana-tsu",
+                        "nana"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "八",
+            "strokes": 2,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Eight"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Ocho"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "hachi"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "yat-tsu"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "九",
+            "strokes": 2,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Nine"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Nueve"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "ku",
+                        "kyū"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "kokono-tsu"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "十",
+            "strokes": 2,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Ten"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Diez"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "jū"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "tō"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "百",
+            "strokes": 6,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Hundred"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Cien"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "hyaku"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "momo"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "千",
+            "strokes": 3,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Thousand"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Mil"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "sen"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "chi"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "上",
+            "strokes": 3,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Top",
+                        "Above"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Arriba"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "jō"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "ue"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "下",
+            "strokes": 3,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Bottom",
+                        "Below"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Abajo"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "ka",
+                        "ge"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "shita",
+                        "shimo",
+                        "moto"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "左",
+            "strokes": 5,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Left"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Izquierda"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "sa"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "hidari"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "右",
+            "strokes": 5,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Right"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Derecha"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "u",
+                        "yū"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "migi"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "中",
+            "strokes": 4,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Inside",
+                        "Middle"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Dentro",
+                        "Medio"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "chū",
+                        "jū"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "naka"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "大",
+            "strokes": 3,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Large"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Grande"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "dai",
+                        "tai"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "ō-kii",
+                        "ō"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "小",
+            "strokes": 3,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Small"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Pequeño"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "shō"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "chii-sai",
+                        "ko",
+                        "o"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "月",
+            "strokes": 4,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Month",
+                        "Moon"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Mes",
+                        "Luna"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "gatsu",
+                        "getsu"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "tsuki"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "日",
+            "strokes": 4,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Day",
+                        "Sun"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Día",
+                        "Sol"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "nichi",
+                        "jitsu"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "hi",
+                        "ka"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "年",
+            "strokes": 6,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Year"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Año"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "nen"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "toshi"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "早",
+            "strokes": 6,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Early"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Temprano"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "sō",
+                        "sa"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "haya-i"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "木",
+            "strokes": 4,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Tree"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Árbol"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "moku",
+                        "boku"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "ki"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "林",
+            "strokes": 8,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Woods"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Bosque"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "rin"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "hayashi"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "山",
+            "strokes": 3,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Mountain"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Montaña"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "san"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "yama"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "川",
+            "strokes": 3,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "River"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Río"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "sen"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "kawa"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "土",
+            "strokes": 3,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Soil"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Suelo"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "to",
+                        "do"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "tsuchi"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "空",
+            "strokes": 8,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Sky"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Cielo"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "kū"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "sora",
+                        "a-ku",
+                        "kara"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "田",
+            "strokes": 5,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Rice Field"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Campo de Arroz"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "den"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "da",
+                        "ta"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "天",
+            "strokes": 4,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Heaven",
+                        "Sky"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Cielo"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "ten"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "ame",
+                        "ama"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "生",
+            "strokes": 5,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Living",
+                        "Birth",
+                        "Raw"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Vida",
+                        "Nacimiento",
+                        "Crudo"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "sei",
+                        "shō"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "i-kiru",
+                        "u-mu",
+                        "nama"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "花",
+            "strokes": 7,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Flower"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Flor"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "ka"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "hana"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "草",
+            "strokes": 9,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Grass"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Hierba"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "sō"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "kusa"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "虫",
+            "strokes": 6,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Insect"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Insecto"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "chū"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "mushi"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "犬",
+            "strokes": 4,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Dog"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Perro"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "ken"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "inu"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "人",
+            "strokes": 2,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Person"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Persona"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "jin",
+                        "nin"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "hito"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "名",
+            "strokes": 6,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Name"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Nombre"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "mei",
+                        "myō"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "na"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "女",
+            "strokes": 3,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Female"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Femenino"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "jo",
+                        "nyo"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "on'na"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "男",
+            "strokes": 7,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Male"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Masculino"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "dan",
+                        "nan"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "otoko"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "子",
+            "strokes": 3,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Child"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Niño"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "shi",
+                        "su"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "ko"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "目",
+            "strokes": 5,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Eye"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Ojo"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "moku"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "me"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "耳",
+            "strokes": 6,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Ear"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Oreja"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "ji",
+                        "ni"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "mimi"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "口",
+            "strokes": 3,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Mouth"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Boca"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "kō"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "kuchi"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "手",
+            "strokes": 4,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Hand"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Mano"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "shu"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "te"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "足",
+            "strokes": 7,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Foot",
+                        "Suffice"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Pie",
+                        "Suficiente"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "soku"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "ashi",
+                        "ta-riru"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "見",
+            "strokes": 7,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "See"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Ver"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "ken",
+                        "gen"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "mi-ru"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "音",
+            "strokes": 9,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Sound"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Sonido"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "on"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "ne",
+                        "oto"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "力",
+            "strokes": 2,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Power"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Poder"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "riki",
+                        "ryoku"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "chikara"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "気",
+            "strokes": 6,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Spirit",
+                        "Air"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Espíritu",
+                        "Aire"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "ki",
+                        "ke"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "iki"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "円",
+            "strokes": 4,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Yen",
+                        "Circle"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Yen",
+                        "Círculo"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "en"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "maru"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "入",
+            "strokes": 2,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Enter"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Entrar"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "nyū"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "hai-ru",
+                        "i-ru"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "出",
+            "strokes": 5,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Exit"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Salir"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "shutsu"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "de-ru"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "立",
+            "strokes": 5,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Stand Up"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Levantarse"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "ritsu"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "ta-tsu"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "休",
+            "strokes": 6,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Rest"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Descansar"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "kyū"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "yasu-mu"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "先",
+            "strokes": 6,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Previous"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Previo"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "sen"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "saki"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "夕",
+            "strokes": 3,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Evening"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Tarde"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "seki"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "yū"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "本",
+            "strokes": 5,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Book"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Libro"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "hon"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "moto"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "文",
+            "strokes": 4,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Text"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Texto"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "bun",
+                        "mon"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "fumi"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "字",
+            "strokes": 6,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Character"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Carácter"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "ji"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "aza"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "学",
+            "strokes": 8,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Study"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Estudio"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "gaku"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "mana-bu"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "校",
+            "strokes": 10,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "School"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Escuela"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "kō"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "kase"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "村",
+            "strokes": 7,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Village"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Aldea"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "son"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "mura"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "町",
+            "strokes": 7,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Town"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Pueblo"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "chō"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "machi"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "森",
+            "strokes": 12,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Forest"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Bosque"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "shin"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "mori"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "正",
+            "strokes": 5,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Correct"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Correcto"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "sei",
+                        "shō"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "tada-shii"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "水",
+            "strokes": 4,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Water"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Agua"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "sui"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "mizu"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "火",
+            "strokes": 4,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Fire"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Fuego"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "ka"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "hi"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "玉",
+            "strokes": 5,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Ball"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Pelota"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "gyoku"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "tama"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "王",
+            "strokes": 4,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "King"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Rey"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "ō"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": []
+                }
+            ]
+        },
+        {
+            "kanji": "石",
+            "strokes": 5,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Stone"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Piedra"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "seki"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "ishi"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "竹",
+            "strokes": 6,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Bamboo"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Bambú"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "chiku"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "take"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "糸",
+            "strokes": 6,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Thread"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Hilo"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "shi"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "ito"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "貝",
+            "strokes": 7,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Shellfish"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Molusco"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "kai"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": []
+                }
+            ]
+        },
+        {
+            "kanji": "車",
+            "strokes": 7,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Car"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Coche"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "sha"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "kuruma"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "金",
+            "strokes": 8,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Gold",
+                        "Money"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Oro",
+                        "Dinero"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "kin"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "kane"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "雨",
+            "strokes": 8,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Rain"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Lluvia"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "u"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "ame"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "赤",
+            "strokes": 7,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Red"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Rojo"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "seki"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "aka"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "青",
+            "strokes": 8,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "Blue"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Azul"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "sei",
+                        "shō"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "ao"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "白",
+            "strokes": 5,
+            "tags": [
+                "grade-1"
+            ],
+            "meaningsByLanguage": [
+                {
+                    "language": "english",
+                    "meanings": [
+                        "White"
+                    ]
+                },
+                {
+                    "language": "spanish",
+                    "meanings": [
+                        "Blanco"
+                    ]
+                }
+            ],
+            "readingsByType": [
+                {
+                    "type": "onyomi",
+                    "readings": [
+                        "haku"
+                    ]
+                },
+                {
+                    "type": "kunyomi",
+                    "readings": [
+                        "shiro"
+                    ]
+                }
+            ]
+        }
+    ]
+}
