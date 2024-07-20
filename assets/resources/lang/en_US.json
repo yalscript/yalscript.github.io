@@ -100,5 +100,22 @@
   "searcher_available_thanks_to_jisho": "This searcher has been possible thanks to",
   "searcher_more_info_in_jisho_website": "For more information, you can visit their website by clicking on the logo.",
   "next": "Next",
-  "repeat": "Repeat"
+  "repeat": "Repeat",
+  "kanji_group": "Group {0}",
+  "grade1": "Elementary - Grade 1",
+  "grade2": "Elementary - Grade 2",
+  "grade3": "Elementary - Grade 3",
+  "grade4": "Elementary - Grade 4",
+  "grade5": "Elementary - Grade 5",
+  "grade6": "Elementary - Grade 6",
+  "high-school": "High School",
+  "jlpt5": "JLPT - NOKEN 5",
+  "jlpt4": "JLPT - NOKEN 4",
+  "jlpt3": "JLPT - NOKEN 3",
+  "jlpt2": "JLPT - NOKEN 2",
+  "jlpt1": "JLPT - NOKEN 1",
+  "school_grade" : "School grade",
+  "study_by_school_grade" : "Study kanji by school grade, as japanese students do",
+  "jlpt" : "Noken",
+  "study_by_jlpt" : "Study kanji by JLPT level. From N5 to N1 levels available"
 }
