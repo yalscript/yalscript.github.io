@@ -7,7 +7,7 @@ const RESOURCES = {"assets/AssetManifest.json": "65024612e1d56e98ca1b97cbd183c89
 "assets/AssetManifest.bin.json": "efd29b1d9303d9349e914d72b13e2908",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/resources/animations/trophy.riv": "130c6ec766b058a3e8fa119628e33d04",
-"assets/resources/content/kanji_data.json": "29940f2d6bb9480c9b4f37d0f2afb083",
+"assets/resources/content/kanji_data.json": "7c04cfb313d9d2de2e3baac91ea126dd",
 "assets/resources/content/vocabulary.json": "58b54133eefaeda2920f690548a62089",
 "assets/resources/img/acknowledgement.jpeg": "8d3f86462b3260da5b8602970b4f41bd",
 "assets/resources/img/abacus.jpeg": "74eea03f0de9a3734ff6cb35748992e5",
@@ -2229,13 +2229,13 @@ const RESOURCES = {"assets/AssetManifest.json": "65024612e1d56e98ca1b97cbd183c89
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
-"flutter_bootstrap.js": "0389db9c4b730e9e9ff23c32ab316867",
+"flutter_bootstrap.js": "93d552f0d16eebb8d001b7754276917a",
 "favicon.png": "14ff5b3d576edbb0882f20832843375f",
 "flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
 "app-cache-manager.js": "893748d26d5efbd3f03fd6ddb13074d1",
 "index.html": "1664fcf7405f5e61570b356270326561",
 "/": "1664fcf7405f5e61570b356270326561",
-"version.json": "aab3247bde27ba6363c0cd382938757d",
+"version.json": "fbe39228e1d66b8ad9bf69a447543fe1",
 "manifest.json": "52c5b0fc5061fffaaabcfaeb68a3a169"};
 // The application shell files that are downloaded before a service worker can
 // start.
