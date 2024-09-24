@@ -114,8 +114,17 @@
   "jlpt3": "JLPT - NOKEN 3",
   "jlpt2": "JLPT - NOKEN 2",
   "jlpt1": "JLPT - NOKEN 1",
+  "japonia-grade-1": "Japonia - Grade 1",
+  "japonia-grade-2": "Japonia - Grade 2",
+  "japonia-grade-3": "Japonia - Grade 3",
+  "japonia_grade" : "Japonia grade",
+  "study_by_japonia_grade" : "Study kanji by Japonia grade, as Japonia students do",
   "school_grade" : "School grade",
   "study_by_school_grade" : "Study kanji by school grade, as japanese students do",
   "jlpt" : "Noken",
-  "study_by_jlpt" : "Study kanji by JLPT level. From N5 to N1 levels available"
+  "study_by_jlpt" : "Study kanji by JLPT level. From N5 to N1 levels available",
+  "expressions": "Expressions",
+  "readings": "Readings",
+  "kunyomi": "Kunyomi",
+  "onyomi": "Onyomi"
 }
