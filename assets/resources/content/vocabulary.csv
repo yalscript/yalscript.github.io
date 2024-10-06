@@ -1,0 +1,577 @@
+B1|1|せんせい|先生|Maestro, profesor
+B1|1|きょうし|教師|Maestro, profesor
+B1|1|がくせい|学生|Estudiante
+B1|1|かいしゃいん|会社員|Empleado de una empresa
+B1|1|しゃいん|社員|Empleado de una empresa X
+B1|1|ぎんこういん|銀行員|Empleado de un banco
+B1|1|いしゃ|医者|Médico
+B1|1|けんきゅうしゃ|研究者|Investigador
+B1|1|だいがく|大学|Universidad
+B1|1|びょういん|病院|Hospital
+B1|2|じしょ|辞書|Diccionario
+B1|2|ざっし|雑誌|Revista
+B1|2|しんぶん|新聞|Periódico
+B1|2|てちょう|手帳|Agenda
+B1|2|めいし|名称|tarjeta de visita
+B1|2|かぎ|鍵|llaves
+B1|2|とけい|時計|reloj
+B1|2|かさ|傘|Paraguas
+B1|2|かばん|鞄|Bolso, maletas
+B1|2|つくえ|机|Escritorio
+B1|2|いす|椅子|Silla
+B1|2|おみやげ|お土産|Souvenir
+B1|3|きょうしつ|教室|Aula
+B1|3|しょくどう|食堂|Comedor
+B1|3|じむしょ|事務所|Oficina
+B1|3|かいぎしつ|会議室|Sala de reuniones
+B1|3|うけつけ|受付|Recepción
+B1|3|へや|部屋|Habitación
+B1|3|かいだん|階段|Escaleras
+B1|3|じどうはんばいき|自動販売機|Máquina expendedora
+B1|3|でんわ|電話|Teléfono
+B1|3|かいしゃ|会社|Empresa
+B1|3|うち|家|Casa
+B1|3|くつ|靴|Zapatos
+B1|3|うりば|売り場|Sección
+B1|3|ちか|地下|Sotano
+B1|3|なんがい|何階|Que piso
+B1|3|ちゅうしゃじょう|駐車場|Parking
+B1|4|おきます|起きます|Levantarse
+B1|4|ねます|寝ます|Acostarse, dormir
+B1|4|はたらきます|働きます|Trabajar
+B1|4|やすみます|休みます|descansar
+B1|4|べんきょうします|勉強します|estudiar
+B1|4|おわります|終わります|terminar
+B1|4|ぎんこう|銀行|banco
+B1|4|ゆうびんきょく|郵便局|oficina de correos
+B1|4|としょかん|図書館|biblioteca
+B1|4|びじゅつかん|美術館|museo de arte
+B1|4|いま|今|ahora
+B1|4|あさ|朝日|mañana
+B1|4|ひる|昼|mediodía
+B1|4|ばん|晩|noche
+B1|4|よる|夜|noche
+B1|4|おととい|一昨日|anteayer
+B1|4|きのう|昨日|ayer
+B1|4|あした|明日|mañana
+B1|4|あさって|明後日|pasado mañana
+B1|4|しけん|試験|examen
+B1|4|かいぎ|会議|reunión, conferencia
+B1|4|えいが|映画|película
+B1|4|ばんごう|番号|número
+B1|5|いきます|行きます|Ir
+B1|5|きます|来ます|Venir
+B1|5|かえります|帰ります|Volver
+B1|5|がっこう|学校|Escuela
+B1|5|えき|駅|Estación
+B1|5|ひこうき|飛行機|Avión
+B1|5|ふね|船|Barco
+B1|5|でんしゃ|電車|Tren
+B1|5|ちかてつ|地下鉄|Metro
+B1|5|しんかんせん|新幹線|Tren bala
+B1|5|じてんしゃ|自転車|Bicicleta
+B1|5|あるいて|歩いて|A pie
+B1|5|ひと|人|Persona
+B1|5|ともだち|友達|Amigo
+B1|5|かれ|彼|Él
+B1|5|かのじょ|彼女|Ella
+B1|5|かぞく|家族|Familia
+B1|5|きょねん|去年|El año pasado
+B1|5|ことし|今年|Este año
+B1|5|らいねん|来年|El próximo año
+B1|5|たんじょうび|誕生日|Cumpleaños
+B1|5|ばんせん|番線|Andén
+B1|5|つぎ|次|Siguiente
+B1|5|ふつう|普通|Normal
+B1|6|たべます|食べます|Comer
+B1|6|のみます|飲みます|Beber
+B1|6|みます|見ます|Ver
+B1|6|すいます|吸います|Fumar
+B1|6|ききます|聞きます|Escuchar
+B1|6|よみます|読みます|Leer
+B1|6|かきます|書きます|Escribir
+B1|6|かいます|買います|Comprar
+B1|6|しゃしんをとります|写真を撮ります|Tomar una foto
+B1|6|あいます|会います|Encontrarse
+B1|6|ごはん|ご飯|Comida
+B1|6|たまご|卵|Huevo
+B1|6|にく|肉|Carne
+B1|6|さかな|魚|Pescado
+B1|6|やさい|野菜|Verdura
+B1|6|くだもの|果物|Fruta
+B1|6|みず|水|Agua
+B1|6|ぎゅうにゅう|牛乳|Leche
+B1|6|おさけ|お酒|Alcohol
+B1|6|てがみ|手紙|Carta
+B1|6|しゃしん|写真|Foto
+B1|6|みせ|店|Tienda
+B1|6|にわ|庭|Jardín
+B1|6|しゅくだい|宿題|Tarea
+B1|6|はなみ|花見|Ver las flores
+B1|6|なに|何|Qué
+B1|6|いっしょに|一緒に|Juntos
+B1|6|ときどき|時々|A veces
+B1|6|たまねぎ|玉葱|Cebolla
+B1|6|にんじん|人参|Zanahoria
+B1|6|だいこん|大根|Rábano blanco
+B1|6|まめ|豆|Frijol
+B1|7|きります|切ります|Cortar
+B1|7|おくります|送ります|Enviar
+B1|7|あげます|上げます|Dar
+B1|7|もらいます|貰います|Recibir
+B1|7|かします|貸します|Prestar
+B1|7|かります|借ります|Pedir prestado
+B1|7|おしえます|教えます|Enseñar
+B1|7|ならいます|習います|Aprender
+B1|7|でんわをかけます|電話をかけます|Llamar por teléfono
+B1|7|て|手|Mano
+B1|7|はさみ|鋏|Tijeras
+B1|7|はし|箸|Palillos
+B1|7|ねんがじょう|年賀状|Tarjeta de año nuevo
+B1|7|けしゴム|消しゴム|Goma de borrar
+B1|7|にもつ|荷物|Equipaje
+B1|7|おかね|お金|Dinero
+B1|7|きっぷ|切符|Boleto
+B1|7|ちち|父|Padre
+B1|7|はは|母|Madre
+B1|8|しずか「な」|静か「な」|Tranquilo/a
+B1|8|にぎやか「な」|賑やか「な」|Animado/a
+B1|8|ゆうめい「な」|有名「な」|Famoso/a
+B1|8|しんせつ「な」|親切「な」|Amable
+B1|8|げんき「な」|元気「な」|Sano/a
+B1|8|ひま「な」|暇「な」|Libre
+B1|8|べんり「な」|便利「な」|Conveniente
+B1|8|すてき「な」|素敵「な」|Bonito/a
+B1|8|おおきい|大きい|Grande
+B1|8|ちいさい|小さい|Pequeño/a
+B1|8|あたらしい|新しい|Nuevo/a
+B1|8|ふるい|古い|Viejo/a
+B1|8|いい、よい|良い|Bueno/a
+B1|8|わるい|悪い|Malo/a
+B1|8|あつい|暑い|Caluroso/a
+B1|8|さむい|寒い|Frío/a
+B1|8|つめたい|冷たい|Frío/a (al tacto)
+B1|8|むずかしい|難しい|Difícil
+B1|8|ひくい|低い|Bajo/a
+B1|8|おもしろい|面白い|Interesante
+B1|8|おいしい|美味しい|Delicioso/a
+B1|8|いそがしい|忙しい|Ocupado/a
+B1|8|たのしい|楽しい|Divertido/a
+B1|8|しろい|白い|Blanco/a
+B1|8|くろい|黒い|Negro/a
+B1|8|あかい|赤い|Rojo/a
+B1|8|あおい|青い|Azul
+B1|8|みどり|緑|Verde
+B1|8|むらさき|紫|Morado/a
+B1|8|きいろ|黄色|Amarillo/a
+B1|8|ちゃいろ|茶色|Marrón
+B1|8|あまい|甘い|Dulce
+B1|8|からい|辛い|Picante
+B1|8|にがい|苦い|Amargo/a
+B1|8|しおからい|塩辛い|Salado/a
+B1|8|すっぱい|酸っぱい|Ácido/a
+B1|8|こい|濃い|Fuerte (sabor)
+B1|8|うすい|薄い|Suave (sabor)
+B1|8|まち|町|Ciudad
+B1|8|ところ|所|Lugar
+B1|8|りょう|寮|Residencia
+B1|8|せいかつ|生活|Vida diaria
+B1|8|しごと|仕事|Trabajo
+B1|9|すき|好きな|Gustar
+B1|9|きらい|嫌いな|No gustar
+B1|9|じょうず|上手な|Hábil
+B1|9|へた|下手な|Torpe
+B1|9|のみもの|飲み物|Bebida
+B1|9|りょうり|料理|Comida (cocinada)
+B1|9|やきゅう|野球|Béisbol
+B1|9|りょこう|旅行|Viaje
+B1|9|おんがく|音楽|Música
+B1|9|うた|歌|Canción
+B1|9|え|絵|Dibujo
+B1|9|じ|字|Letra
+B1|9|こまかい|細かい|Minucioso/a
+B1|9|じかん|時間|Tiempo
+B1|9|ようじ|用事|Tarea
+B1|9|やくそく|約束|Compromiso
+B1|9|ごしゅじん|ご主人|Esposo (de otra persona)
+B1|9|おっと|夫|Esposo
+B1|9|おくさん|奥さん|Esposa (de otra persona)
+B1|9|つま|妻|Esposa
+B1|9|こども|子ども|Niño/a
+B1|9|だいたい|大体|Más o menos
+B1|9|たくさん|沢山|Mucho/a
+B1|9|よく|良く|Bien, frecuente
+B1|9|すこし|少し|Un poco
+B1|9|ぜんぜん|全然|Nada
+B1|9|はやく|早く|Rápido/a
+B1|10|いろいろ|色々|varios, diversas
+B1|10|おとこ|男|hombre
+B1|10|おんな|女|mujer
+B1|10|おとこのこ|男の子|niño
+B1|10|おんなのこ|女の子|niña
+B1|10|いぬ|犬|perro
+B1|10|ねこ|猫|gato
+B1|10|ぞう|象|elefante
+B1|10|き|木|árbol
+B1|10|もの|物|cosa, objeto
+B1|10|でんち|電池|pila, batería
+B1|10|はこ|箱|caja
+B1|10|れいぞうく|冷蔵庫|refrigerador
+B1|10|たな|棚|estante
+B1|10|まど|窓|ventana
+B1|10|こうえん|公園|parque
+B1|10|きっさてん|喫茶店|cafetería
+B1|10|のりば|乗り場|parada (de transporte)
+B1|10|けん|県|prefectura
+B1|10|うえ|上|arriba
+B1|10|した|下|abajo
+B1|10|まえ|前|delante
+B1|10|うしろ|後ろ|detrás
+B1|10|みぎ|右|derecha
+B1|10|ひだり|左|izquierda
+B1|10|なか|中|dentro
+B1|10|そと|外|fuera
+B1|10|となり|隣|al lado
+B1|10|ちかく|近く|cerca
+B1|10|あいだ|間|entre
+B1|11|かかります|掛かります|tardar
+B1|11|やすみます|休みます|descansar
+B1|11|ひとつ|一つ|uno
+B1|11|いくつ|幾つ|cuántos, cuántas
+B1|11|ひとり|一人|una persona
+B1|11|ふたり|二人|dos personas
+B1|11|りんご|林檎|manzana
+B1|11|みかん|蜜柑|mandarina
+B1|11|きって|切手|sello
+B1|11|はがき|葉書|postal
+B1|11|ふうとう|封筒|sobre
+B1|11|りょうしん|両親|padres
+B1|11|きょうだい|兄弟|hermanos
+B1|11|むすめ|娘|hija
+B1|11|むすこ|息子|hijo
+B1|11|あに|兄|hermano mayor
+B1|11|あね|姉|hermana mayor
+B1|11|おとうと|弟|hermano menor
+B1|11|いもうと|妹|hermana menor
+B1|11|がいこく|外国|país extranjero
+B1|11|りゅうがくせい|留学生|estudiante extranjero
+B1|11|どのくらい|どの位|cuánto tiempo, cuánto
+B1|11|ぜんぶで|全部で|en total
+B1|11|みんな|皆|todos
+B1|11|だけ|丈|sólo
+B1|12|かんたん|簡単な|sencillo, fácil
+B1|12|ちかい|近い|cerca
+B1|12|とおい|遠い|lejos
+B1|12|はやい|速い|rápido
+B1|12|おそい|遅い|lento, tarde
+B1|12|おおい|多い|muchos
+B1|12|すくない|少ない|pocos
+B1|12|あたたかい|暖かい|cálido
+B1|12|すずしい|すずしい|fresco
+B1|12|あまい|甘い|dulce
+B1|12|からい|辛い|picante, salado
+B1|12|おもい|重い|pesado
+B1|12|かるい|軽い|ligero
+B1|12|きせつ|季節|estación (del año)
+B1|12|はる|春|primavera
+B1|12|なつ|夏|verano
+B1|12|あき|秋|otoño
+B1|12|ふゆ|冬|invierno
+B1|12|てんき|天気|clima
+B1|12|あめ|雨|lluvia
+B1|12|ゆき|雪|nieve
+B1|12|くもり|曇|nublado
+B1|12|くうこう|空港|aeropuerto
+B1|12|うみ|海|mar
+B1|12|せかい|世界|mundo
+B1|12|まつり|祭り|festival
+B1|12|すきやき|すき焼き|sukiyaki (plato japonés)
+B1|12|さしみ|刺身|sashimi (pescado crudo)
+B1|12|すし|寿司|sushi
+B1|12|ぶたにく|豚肉|carne de cerdo
+B1|12|とりにく|鶏肉|carne de pollo
+B1|12|ぎゅうにく|牛肉|carne de res
+B1|12|いけばな|生け花|ikebana (arte floral japonés)
+B1|12|もみじ|紅葉|hojas de otoño
+B1|12|いちばん|一番|el primero, el mejor
+B1|12|ずっと|ずっと|todo el tiempo, mucho
+B1|12|どちら|どちら|cuál, dónde
+B1|12|どちらも|どちらも|ambos
+B1|13|あそびます|遊びます|jugar, divertirse
+B1|13|およぎます|泳ぎます|nadar
+B1|13|むかえます|迎えます|recibir, recoger
+B1|13|つかれます|疲れます|cansarse
+B1|13|けっこんします|結婚します|casarse
+B1|13|かいものします|買い物します|ir de compras
+B1|13|しょくじします|食事します|comer
+B1|13|さんぽします|散歩します|pasear
+B1|13|たいへん|大変|difícil, grave
+B1|13|ほしい|欲しい|querer (algo)
+B1|13|ひろい|広い|amplio
+B1|13|せまい|狭い|estrecho
+B1|13|かわ|川|río
+B1|13|びじゅつ|美術|arte
+B1|13|つり|釣り|pesca
+B1|13|しゅうまつ|週末|fin de semana
+B1|13|おしょうがつ|お正月|Año Nuevo
+B1|13|なにか|何か|algo
+B1|13|のどがかわります|喉が渇ります|tengo sed
+B1|13|おなかがすきます|お腹が空きます|tengo hambre
+B1|13|ていしょく|定食|menú del día
+B2|14|つけます|点けます|encender
+B2|14|けします|消します|apagar
+B2|14|あけます|開けます|abrir
+B2|14|しめます|閉めます|cerrar
+B2|14|いそぎます|急ぎます|apresurarse
+B2|14|まちます|待ちます|esperar
+B2|14|とります|取ります|tomar
+B2|14|てつだいます|手伝います|ayudar
+B2|14|よびます|呼びます|llamar
+B2|14|はなします|話します|hablar
+B2|14|つかいます|使います|usar
+B2|14|とめます|止めます|detener
+B2|14|みせます|見せます|mostrar
+B2|14|おしえます|教えます|enseñar
+B2|14|すわります|座ります|sentarse
+B2|14|たちます|立ちます|pararse
+B2|14|はいります|入ります|entrar
+B2|14|でます|出ます|salir
+B2|14|おります|降ります|bajarse
+B2|14|でんき|でんき|electricidad
+B2|14|じゅうしょ|住所|dirección
+B2|14|ちず|地図|mapa
+B2|14|しお|塩|sal
+B2|14|さとう|砂糖|azúcar
+B2|14|もんだい|問題|problema
+B2|14|こたえ|答え|respuesta
+B2|14|よみかた|読み方|forma de leer
+B2|14|かた|方|dirección, manera
+B2|14|まっすぐ|真っ直ぐ|recto
+B2|14|ゆっくり|ゆっくり|despacio
+B2|14|すぐ|直ぐ|inmediatamente
+B2|14|また|又|otra vez
+B2|14|あとで|後で|después
+B2|14|もうすこし|もう少し|un poco más
+B2|14|しんごう|信号|semaforo
+B2|14|おつり|お釣り|vuelto, cambio
+B2|15|おきます|置きます|poner
+B2|15|つくります|作ります|hacer, crear
+B2|15|うります|売ります|vender
+B2|15|しります|知ります|saber
+B2|15|すみます|住みます|vivir
+B2|15|けんきゅうします|研究します|investigar
+B2|15|すわります|座ります|sentarse
+B2|15|けっこんします|結婚します|casarse
+B2|15|しりょう|資料|documentos
+B2|15|じこくひょう|時刻表|horario (de trenes, buses)
+B2|15|ふく|服|ropa
+B2|15|せいひん|製品|producto
+B2|15|けいざい|経済|economía
+B2|15|しやくしょ|市役所|ayuntamiento
+B2|15|こうこう|高校|escuela secundaria
+B2|15|はいしゃ|歯医者|dentista
+B2|15|どくしん|独身|soltero/a
+B2|15|いらっしゃいます|いらっしゃいます|estar, ir, venir (forma respetuosa)
+B2|16|のります|乗ります|subir (a un vehículo)
+B2|16|おります|降ります|bajar (de un vehículo)
+B2|16|のりかえます|乗り換えます|hacer transbordo
+B2|16|あびます|浴びます|ducharse, bañarse
+B2|16|いれます|入れます|meter, introducir
+B2|16|だします|出します|sacar
+B2|16|おろします|下ろします|retirar (dinero)
+B2|16|おします|押します|empujar
+B2|16|はじめます|始めます|empezar
+B2|16|けんがくします|見学します|visitar (para estudio)
+B2|16|でんわします|電話します|llamar por teléfono
+B2|16|わかい|若い|joven
+B2|16|ながい|長い|largo
+B2|16|みじかい|短い|corto
+B2|16|あかるい|明るい|claro, luminoso
+B2|16|くらい|暗い|oscuro
+B2|16|からだ|体|cuerpo
+B2|16|あたま|頭|cabeza
+B2|16|かみ|髪|cabello
+B2|16|かお|顔|cara
+B2|16|め|目|ojo
+B2|16|みみ|耳|oído, oreja
+B2|16|はな|鼻|nariz
+B2|16|くち|口|boca
+B2|16|は|歯|diente
+B2|16|おなか|お腹|estómago
+B2|16|あし|足|pierna, pie
+B2|16|せ|背|espalda, estatura
+B2|16|おてら|お寺|templo budista
+B2|16|じんじゃ|神社|santuario sintoísta
+B2|16|どうやって|どうやって|cómo
+B2|16|どれ|どれ|cuál
+B2|16|まず|先ず|primero
+B2|16|つぎに|次に|después
+B2|16|あんしょうばんごう|暗証番号|número de identificación personal (PIN)
+B2|16|きんがく|金額|cantidad de dinero
+B2|16|かくにん|確認|confirmación
+B2|17|おぼえます|覚えます|recordar
+B2|17|わすれます|忘れます|olvidar
+B2|17|はらいます|払います|pagar
+B2|17|かえします|返します|devolver
+B2|17|でかけます|出かけます|salir
+B2|17|もっていきます|持っていきます|llevar
+B2|17|ぬぎます|脱ぎます|quitarse
+B2|17|もってきます|持ってきます|traer
+B2|17|しんぱいします|心配します|preocuparse
+B2|17|ざんぎょうします|残業します|hacer horas extra
+B2|17|しゅっちょうします|出張します|viajar por negocios
+B2|17|くすりをのみます|薬を飲みます|tomar medicina
+B2|17|おふろにはいります|お風呂に入ります|bañarse
+B2|17|たいせつな|大切な|importante
+B2|17|だいじょうぶな|大丈夫な|estar bien
+B2|17|あぶない|危ない|peligroso
+B2|17|きんえん|禁煙|prohibido fumar
+B2|17|ほけんしょう|保険証|tarjeta de seguro
+B2|17|ねつ|熱|fiebre
+B2|17|びょうき|病気|enfermedad
+B2|17|くすり|薬|medicina
+B2|17|おふろ|お風呂|baño
+B2|17|うわぎ|上着|chaqueta
+B2|17|したぎ|下着|ropa interior
+B2|17|のど|喉|garganta
+B2|17|かぜ|風邪|resfriado
+B2|17|おだいじに|お大事に|cuídate
+B2|17|それから|それから|y además
+B2|18|あらいます|洗います|lavar
+B2|18|ひきます|弾きます|tocar
+B2|18|うたいます|歌います|cantar
+B2|18|あつめます|集めます|coleccionar
+B2|18|すてます|捨てます|tirar
+B2|18|かえます|換えます|cambiar
+B2|18|うんてんします|運転します|conducir
+B2|18|よやくします|予約します|reservar
+B2|18|げんきん|現金|efectivo
+B2|18|しゅみ|趣味|hobby
+B2|18|にっき|日記|diario
+B2|18|おいのり|お祈り|oración
+B2|18|かちょう|課長|jefe de sección
+B2|18|ぶちょう|部長|director de departamento
+B2|18|しゃちょう|社長|presidente
+B2|18|どうぶつ|動物|animal
+B2|18|うま|馬|caballo
+B2|18|とくに|特に|especialmente
+B2|18|ぜひ|ぜひ|definitivamente
+B2|18|なかなか|なかなか|dificilmente
+B2|19|のぼります|登ります|subir
+B2|19|とまります|泊まります|quedarse
+B2|19|そうじします|掃除します|limpiar
+B2|19|せんたくします|洗濯します|lavar la ropa
+B2|19|なります|なります|convertirse
+B2|19|ねむい|眠い|somnoliento
+B2|19|つよい|強い|fuerte
+B2|19|よわい|弱い|débil
+B2|19|れんしゅう|練習|práctica
+B2|19|すもう|相撲|sumo
+B2|19|おちゃ|お茶|té
+B2|19|ちょうし|調子|estado físico
+B2|19|いちど|一度|una vez
+B2|19|いちども|一度も|ni una vez
+B2|19|だんだん|だんだん|poco a poco
+B2|19|もうすぐ|もうすぐ|pronto
+B2|19|でも|でも|pero
+B2|19|むりな|無理な|imposible
+B2|20|びざがいります|ビザが要ります|se necesita visa
+B2|20|しらべます|調べます|investigar
+B2|20|しゅうりします|修理します|reparar
+B2|20|ぼく|僕|yo (masculino, informal)
+B2|20|きみ|君|tú (informal)
+B2|20|ことば|言葉|palabra
+B2|20|きもの|着物|kimono
+B2|20|はじめ|始め|comienzo
+B2|20|おわり|終わり|fin
+B2|20|だけ|だけ|solo
+B2|20|おなかがいっぱい|お腹がいっぱい|estoy lleno
+B2|20|よかったら|よかったら|si quieres
+B2|20|いろいろ|色々|varios
+B2|21|おもいます|思います|pienso
+B2|21|いいます|言います|digo
+B2|21|かちます|勝ちます|gano
+B2|21|まけます|負けます|pierdo
+B2|21|やくにたちます|役に立ちます|es útil
+B2|21|うごきます|動きます|me muevo
+B2|21|かいしゃをやめます|会社を辞めます|dejo la empresa
+B2|21|きをつけます|気を付けます|tengo cuidado
+B2|21|りゅうがくします|留学します|estudio en el extranjero
+B2|21|むだな|無駄な|innecesario
+B2|21|ふべんな|不便な|inconveniente
+B2|21|ほんとう|本当|verdad
+B2|21|うそ|噓|mentira
+B2|21|じどうしゃ|自動車|automóvil
+B2|21|こうつう|交通|tráfico
+B2|21|ぶっか|物価|precios, coste de vida
+B2|21|ほうそう|放送|emisión, anuncio 
+B2|21|ゆめ|夢|sueño
+B2|21|てんさい|天才|genio
+B2|21|しあい|試合|partido
+B2|21|いけん|意見|opinión
+B2|21|はなし|話し|charla, cuento
+B2|21|ちきゅう|地球|tierra
+B2|21|つき|月|luna
+B2|21|さいきん|最近|recientemente
+B2|21|たぶん|たぶん|tal vez
+B2|21|きっと|きっと|sin falta
+B2|21|もちろん|もちろん|por supuesto
+B2|22|きます|着ます|llevar
+B2|22|はきます|履|ponerse
+B2|22|かぶります|被ります|cubrirse
+B2|22|めがねをかけます|めがねをかけます|usar gafas
+B2|22|ねくたいをします|ねくたいをします|ponerse una corbata
+B2|22|うまれます|生まれます|nacer
+B2|22|わたしたち|私たち|nosotros
+B2|22|ぼうし|帽|sombrero
+B2|22|めがね|眼鏡|gafas
+B2|22|おべんとう|お弁当|bento
+B2|22|つごう|都合|conveniencia
+B2|22|よく|よく|frecuentemente
+B2|22|では|でわ|entonces, bueno
+B2|22|やちん|家賃|alquiler (relativo al importe de dinero)
+B2|22|わしつ|和室|habitación japonesa
+B2|22|おしいれ|押し入れ|armario para guardar futones
+B2|22|ふとん|布団|futón
+B2|23|せんせいのききます|先生の聞きます|preguntar al profesor
+B2|23|まわします|回します|girar
+B2|23|かえます|変えます|cambiar
+B2|23|さわります|触ります|tocar
+B2|23|おつりがでます|お釣りが出ます|dar cambio
+B2|23|あるきます|歩きます|caminar
+B2|23|はしをわたります|橋を渡ります|cruzar un puente
+B2|23|まがります|曲がります|doblar
+B2|23|さびしい|寂しい|triste, solitario
+B2|23|おゆ|お湯|agua caliente
+B2|23|おと|音|sonido
+B2|23|こしょう|故障|avería
+B2|23|みち|道|camino, calle
+B2|23|こうさてん|交差点|intersección
+B2|23|しんごう|信号|semáforo
+B2|23|かど|角|esquina
+B2|23|はし|橋|puente
+B2|23|ちゅうしゃじょう|駐車場|estacionamiento
+B2|23|たてもの|建物|edificio
+B2|23|なんかいも|何回も|varias veces
+B2|24|くれます|くれます|dar
+B2|24|なおします|直します|reparar
+B2|24|つれていきます|連れていきます|llevar (a alguien)
+B2|24|つれてきます|連れてきます|traer (a alguien)
+B2|24|ひとをおくります|人を送ります|llevar a alguien, acompañar 
+B2|24|しょうかいします|紹介します|presentar
+B2|24|あんないします|案内します|guiar, indicar el camino
+B2|24|せつめいします|説明します|explicar
+B2|24|じゅんび|準備|preparación
+B2|24|ひっこし|引っ越し|mudanza
+B2|24|ぜんぶ|全部|todo
+B2|24|じぶんで|自分で|por mi cuenta
+B2|24|ほかに|他に|además, aparte
+B2|25|かんがえます|考えます|pensar
+B2|25|つきます|着きます|llegar
+B2|25|としをとります|年を取ります|envejecer
+B2|25|いなか|田舎|zona rural, pueblo natal
+B2|25|おく|億|cien millones
+B2|25|もし・たら|もし・たら|si…
+B2|25|てんきん|転勤|traslado
+B2|25|ひま|暇|tiempo libre
+B2|25|がんばります|頑張ります|esforzarme
