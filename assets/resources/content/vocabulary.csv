@@ -1,577 +1,1001 @@
-B1|1|せんせい|先生|Maestro, profesor
-B1|1|きょうし|教師|Maestro, profesor
-B1|1|がくせい|学生|Estudiante
-B1|1|かいしゃいん|会社員|Empleado de una empresa
-B1|1|しゃいん|社員|Empleado de una empresa X
-B1|1|ぎんこういん|銀行員|Empleado de un banco
-B1|1|いしゃ|医者|Médico
-B1|1|けんきゅうしゃ|研究者|Investigador
-B1|1|だいがく|大学|Universidad
-B1|1|びょういん|病院|Hospital
-B1|2|じしょ|辞書|Diccionario
-B1|2|ざっし|雑誌|Revista
-B1|2|しんぶん|新聞|Periódico
-B1|2|てちょう|手帳|Agenda
-B1|2|めいし|名称|tarjeta de visita
-B1|2|かぎ|鍵|llaves
-B1|2|とけい|時計|reloj
-B1|2|かさ|傘|Paraguas
-B1|2|かばん|鞄|Bolso, maletas
-B1|2|つくえ|机|Escritorio
-B1|2|いす|椅子|Silla
-B1|2|おみやげ|お土産|Souvenir
-B1|3|きょうしつ|教室|Aula
-B1|3|しょくどう|食堂|Comedor
-B1|3|じむしょ|事務所|Oficina
-B1|3|かいぎしつ|会議室|Sala de reuniones
-B1|3|うけつけ|受付|Recepción
-B1|3|へや|部屋|Habitación
-B1|3|かいだん|階段|Escaleras
-B1|3|じどうはんばいき|自動販売機|Máquina expendedora
-B1|3|でんわ|電話|Teléfono
-B1|3|かいしゃ|会社|Empresa
-B1|3|うち|家|Casa
-B1|3|くつ|靴|Zapatos
-B1|3|うりば|売り場|Sección
-B1|3|ちか|地下|Sotano
-B1|3|なんがい|何階|Que piso
-B1|3|ちゅうしゃじょう|駐車場|Parking
-B1|4|おきます|起きます|Levantarse
-B1|4|ねます|寝ます|Acostarse, dormir
-B1|4|はたらきます|働きます|Trabajar
-B1|4|やすみます|休みます|descansar
-B1|4|べんきょうします|勉強します|estudiar
-B1|4|おわります|終わります|terminar
-B1|4|ぎんこう|銀行|banco
-B1|4|ゆうびんきょく|郵便局|oficina de correos
-B1|4|としょかん|図書館|biblioteca
-B1|4|びじゅつかん|美術館|museo de arte
-B1|4|いま|今|ahora
-B1|4|あさ|朝日|mañana
-B1|4|ひる|昼|mediodía
-B1|4|ばん|晩|noche
-B1|4|よる|夜|noche
-B1|4|おととい|一昨日|anteayer
-B1|4|きのう|昨日|ayer
-B1|4|あした|明日|mañana
-B1|4|あさって|明後日|pasado mañana
-B1|4|しけん|試験|examen
-B1|4|かいぎ|会議|reunión, conferencia
-B1|4|えいが|映画|película
-B1|4|ばんごう|番号|número
-B1|5|いきます|行きます|Ir
-B1|5|きます|来ます|Venir
-B1|5|かえります|帰ります|Volver
-B1|5|がっこう|学校|Escuela
-B1|5|えき|駅|Estación
-B1|5|ひこうき|飛行機|Avión
-B1|5|ふね|船|Barco
-B1|5|でんしゃ|電車|Tren
-B1|5|ちかてつ|地下鉄|Metro
-B1|5|しんかんせん|新幹線|Tren bala
-B1|5|じてんしゃ|自転車|Bicicleta
-B1|5|あるいて|歩いて|A pie
-B1|5|ひと|人|Persona
-B1|5|ともだち|友達|Amigo
-B1|5|かれ|彼|Él
-B1|5|かのじょ|彼女|Ella
-B1|5|かぞく|家族|Familia
-B1|5|きょねん|去年|El año pasado
-B1|5|ことし|今年|Este año
-B1|5|らいねん|来年|El próximo año
-B1|5|たんじょうび|誕生日|Cumpleaños
-B1|5|ばんせん|番線|Andén
-B1|5|つぎ|次|Siguiente
-B1|5|ふつう|普通|Normal
-B1|6|たべます|食べます|Comer
-B1|6|のみます|飲みます|Beber
-B1|6|みます|見ます|Ver
-B1|6|すいます|吸います|Fumar
-B1|6|ききます|聞きます|Escuchar
-B1|6|よみます|読みます|Leer
-B1|6|かきます|書きます|Escribir
-B1|6|かいます|買います|Comprar
-B1|6|しゃしんをとります|写真を撮ります|Tomar una foto
-B1|6|あいます|会います|Encontrarse
-B1|6|ごはん|ご飯|Comida
-B1|6|たまご|卵|Huevo
-B1|6|にく|肉|Carne
-B1|6|さかな|魚|Pescado
-B1|6|やさい|野菜|Verdura
-B1|6|くだもの|果物|Fruta
-B1|6|みず|水|Agua
-B1|6|ぎゅうにゅう|牛乳|Leche
-B1|6|おさけ|お酒|Alcohol
-B1|6|てがみ|手紙|Carta
-B1|6|しゃしん|写真|Foto
-B1|6|みせ|店|Tienda
-B1|6|にわ|庭|Jardín
-B1|6|しゅくだい|宿題|Tarea
-B1|6|はなみ|花見|Ver las flores
-B1|6|なに|何|Qué
-B1|6|いっしょに|一緒に|Juntos
-B1|6|ときどき|時々|A veces
-B1|6|たまねぎ|玉葱|Cebolla
-B1|6|にんじん|人参|Zanahoria
-B1|6|だいこん|大根|Rábano blanco
-B1|6|まめ|豆|Frijol
-B1|7|きります|切ります|Cortar
-B1|7|おくります|送ります|Enviar
-B1|7|あげます|上げます|Dar
-B1|7|もらいます|貰います|Recibir
-B1|7|かします|貸します|Prestar
-B1|7|かります|借ります|Pedir prestado
-B1|7|おしえます|教えます|Enseñar
-B1|7|ならいます|習います|Aprender
-B1|7|でんわをかけます|電話をかけます|Llamar por teléfono
-B1|7|て|手|Mano
-B1|7|はさみ|鋏|Tijeras
-B1|7|はし|箸|Palillos
-B1|7|ねんがじょう|年賀状|Tarjeta de año nuevo
-B1|7|けしゴム|消しゴム|Goma de borrar
-B1|7|にもつ|荷物|Equipaje
-B1|7|おかね|お金|Dinero
-B1|7|きっぷ|切符|Boleto
-B1|7|ちち|父|Padre
-B1|7|はは|母|Madre
-B1|8|しずか「な」|静か「な」|Tranquilo/a
-B1|8|にぎやか「な」|賑やか「な」|Animado/a
-B1|8|ゆうめい「な」|有名「な」|Famoso/a
-B1|8|しんせつ「な」|親切「な」|Amable
-B1|8|げんき「な」|元気「な」|Sano/a
-B1|8|ひま「な」|暇「な」|Libre
-B1|8|べんり「な」|便利「な」|Conveniente
-B1|8|すてき「な」|素敵「な」|Bonito/a
-B1|8|おおきい|大きい|Grande
-B1|8|ちいさい|小さい|Pequeño/a
-B1|8|あたらしい|新しい|Nuevo/a
-B1|8|ふるい|古い|Viejo/a
-B1|8|いい、よい|良い|Bueno/a
-B1|8|わるい|悪い|Malo/a
-B1|8|あつい|暑い|Caluroso/a
-B1|8|さむい|寒い|Frío/a
-B1|8|つめたい|冷たい|Frío/a (al tacto)
-B1|8|むずかしい|難しい|Difícil
-B1|8|ひくい|低い|Bajo/a
-B1|8|おもしろい|面白い|Interesante
-B1|8|おいしい|美味しい|Delicioso/a
-B1|8|いそがしい|忙しい|Ocupado/a
-B1|8|たのしい|楽しい|Divertido/a
-B1|8|しろい|白い|Blanco/a
-B1|8|くろい|黒い|Negro/a
-B1|8|あかい|赤い|Rojo/a
-B1|8|あおい|青い|Azul
-B1|8|みどり|緑|Verde
-B1|8|むらさき|紫|Morado/a
-B1|8|きいろ|黄色|Amarillo/a
-B1|8|ちゃいろ|茶色|Marrón
-B1|8|あまい|甘い|Dulce
-B1|8|からい|辛い|Picante
-B1|8|にがい|苦い|Amargo/a
-B1|8|しおからい|塩辛い|Salado/a
-B1|8|すっぱい|酸っぱい|Ácido/a
-B1|8|こい|濃い|Fuerte (sabor)
-B1|8|うすい|薄い|Suave (sabor)
-B1|8|まち|町|Ciudad
-B1|8|ところ|所|Lugar
-B1|8|りょう|寮|Residencia
-B1|8|せいかつ|生活|Vida diaria
-B1|8|しごと|仕事|Trabajo
-B1|9|すき|好きな|Gustar
-B1|9|きらい|嫌いな|No gustar
-B1|9|じょうず|上手な|Hábil
-B1|9|へた|下手な|Torpe
-B1|9|のみもの|飲み物|Bebida
-B1|9|りょうり|料理|Comida (cocinada)
-B1|9|やきゅう|野球|Béisbol
-B1|9|りょこう|旅行|Viaje
-B1|9|おんがく|音楽|Música
-B1|9|うた|歌|Canción
-B1|9|え|絵|Dibujo
-B1|9|じ|字|Letra
-B1|9|こまかい|細かい|Minucioso/a
-B1|9|じかん|時間|Tiempo
-B1|9|ようじ|用事|Tarea
-B1|9|やくそく|約束|Compromiso
-B1|9|ごしゅじん|ご主人|Esposo (de otra persona)
-B1|9|おっと|夫|Esposo
-B1|9|おくさん|奥さん|Esposa (de otra persona)
-B1|9|つま|妻|Esposa
-B1|9|こども|子ども|Niño/a
-B1|9|だいたい|大体|Más o menos
-B1|9|たくさん|沢山|Mucho/a
-B1|9|よく|良く|Bien, frecuente
-B1|9|すこし|少し|Un poco
-B1|9|ぜんぜん|全然|Nada
-B1|9|はやく|早く|Rápido/a
-B1|10|いろいろ|色々|varios, diversas
-B1|10|おとこ|男|hombre
-B1|10|おんな|女|mujer
-B1|10|おとこのこ|男の子|niño
-B1|10|おんなのこ|女の子|niña
-B1|10|いぬ|犬|perro
-B1|10|ねこ|猫|gato
-B1|10|ぞう|象|elefante
-B1|10|き|木|árbol
-B1|10|もの|物|cosa, objeto
-B1|10|でんち|電池|pila, batería
-B1|10|はこ|箱|caja
-B1|10|れいぞうく|冷蔵庫|refrigerador
-B1|10|たな|棚|estante
-B1|10|まど|窓|ventana
-B1|10|こうえん|公園|parque
-B1|10|きっさてん|喫茶店|cafetería
-B1|10|のりば|乗り場|parada (de transporte)
-B1|10|けん|県|prefectura
-B1|10|うえ|上|arriba
-B1|10|した|下|abajo
-B1|10|まえ|前|delante
-B1|10|うしろ|後ろ|detrás
-B1|10|みぎ|右|derecha
-B1|10|ひだり|左|izquierda
-B1|10|なか|中|dentro
-B1|10|そと|外|fuera
-B1|10|となり|隣|al lado
-B1|10|ちかく|近く|cerca
-B1|10|あいだ|間|entre
-B1|11|かかります|掛かります|tardar
-B1|11|やすみます|休みます|descansar
-B1|11|ひとつ|一つ|uno
-B1|11|いくつ|幾つ|cuántos, cuántas
-B1|11|ひとり|一人|una persona
-B1|11|ふたり|二人|dos personas
-B1|11|りんご|林檎|manzana
-B1|11|みかん|蜜柑|mandarina
-B1|11|きって|切手|sello
-B1|11|はがき|葉書|postal
-B1|11|ふうとう|封筒|sobre
-B1|11|りょうしん|両親|padres
-B1|11|きょうだい|兄弟|hermanos
-B1|11|むすめ|娘|hija
-B1|11|むすこ|息子|hijo
-B1|11|あに|兄|hermano mayor
-B1|11|あね|姉|hermana mayor
-B1|11|おとうと|弟|hermano menor
-B1|11|いもうと|妹|hermana menor
-B1|11|がいこく|外国|país extranjero
-B1|11|りゅうがくせい|留学生|estudiante extranjero
-B1|11|どのくらい|どの位|cuánto tiempo, cuánto
-B1|11|ぜんぶで|全部で|en total
-B1|11|みんな|皆|todos
-B1|11|だけ|丈|sólo
-B1|12|かんたん|簡単な|sencillo, fácil
-B1|12|ちかい|近い|cerca
-B1|12|とおい|遠い|lejos
-B1|12|はやい|速い|rápido
-B1|12|おそい|遅い|lento, tarde
-B1|12|おおい|多い|muchos
-B1|12|すくない|少ない|pocos
-B1|12|あたたかい|暖かい|cálido
-B1|12|すずしい|すずしい|fresco
-B1|12|あまい|甘い|dulce
-B1|12|からい|辛い|picante, salado
-B1|12|おもい|重い|pesado
-B1|12|かるい|軽い|ligero
-B1|12|きせつ|季節|estación (del año)
-B1|12|はる|春|primavera
-B1|12|なつ|夏|verano
-B1|12|あき|秋|otoño
-B1|12|ふゆ|冬|invierno
-B1|12|てんき|天気|clima
-B1|12|あめ|雨|lluvia
-B1|12|ゆき|雪|nieve
-B1|12|くもり|曇|nublado
-B1|12|くうこう|空港|aeropuerto
-B1|12|うみ|海|mar
-B1|12|せかい|世界|mundo
-B1|12|まつり|祭り|festival
-B1|12|すきやき|すき焼き|sukiyaki (plato japonés)
-B1|12|さしみ|刺身|sashimi (pescado crudo)
-B1|12|すし|寿司|sushi
-B1|12|ぶたにく|豚肉|carne de cerdo
-B1|12|とりにく|鶏肉|carne de pollo
-B1|12|ぎゅうにく|牛肉|carne de res
-B1|12|いけばな|生け花|ikebana (arte floral japonés)
-B1|12|もみじ|紅葉|hojas de otoño
-B1|12|いちばん|一番|el primero, el mejor
-B1|12|ずっと|ずっと|todo el tiempo, mucho
-B1|12|どちら|どちら|cuál, dónde
-B1|12|どちらも|どちらも|ambos
-B1|13|あそびます|遊びます|jugar, divertirse
-B1|13|およぎます|泳ぎます|nadar
-B1|13|むかえます|迎えます|recibir, recoger
-B1|13|つかれます|疲れます|cansarse
-B1|13|けっこんします|結婚します|casarse
-B1|13|かいものします|買い物します|ir de compras
-B1|13|しょくじします|食事します|comer
-B1|13|さんぽします|散歩します|pasear
-B1|13|たいへん|大変|difícil, grave
-B1|13|ほしい|欲しい|querer (algo)
-B1|13|ひろい|広い|amplio
-B1|13|せまい|狭い|estrecho
-B1|13|かわ|川|río
-B1|13|びじゅつ|美術|arte
-B1|13|つり|釣り|pesca
-B1|13|しゅうまつ|週末|fin de semana
-B1|13|おしょうがつ|お正月|Año Nuevo
-B1|13|なにか|何か|algo
-B1|13|のどがかわります|喉が渇ります|tengo sed
-B1|13|おなかがすきます|お腹が空きます|tengo hambre
-B1|13|ていしょく|定食|menú del día
-B2|14|つけます|点けます|encender
-B2|14|けします|消します|apagar
-B2|14|あけます|開けます|abrir
-B2|14|しめます|閉めます|cerrar
-B2|14|いそぎます|急ぎます|apresurarse
-B2|14|まちます|待ちます|esperar
-B2|14|とります|取ります|tomar
-B2|14|てつだいます|手伝います|ayudar
-B2|14|よびます|呼びます|llamar
-B2|14|はなします|話します|hablar
-B2|14|つかいます|使います|usar
-B2|14|とめます|止めます|detener
-B2|14|みせます|見せます|mostrar
-B2|14|おしえます|教えます|enseñar
-B2|14|すわります|座ります|sentarse
-B2|14|たちます|立ちます|pararse
-B2|14|はいります|入ります|entrar
-B2|14|でます|出ます|salir
-B2|14|おります|降ります|bajarse
-B2|14|でんき|でんき|electricidad
-B2|14|じゅうしょ|住所|dirección
-B2|14|ちず|地図|mapa
-B2|14|しお|塩|sal
-B2|14|さとう|砂糖|azúcar
-B2|14|もんだい|問題|problema
-B2|14|こたえ|答え|respuesta
-B2|14|よみかた|読み方|forma de leer
-B2|14|かた|方|dirección, manera
-B2|14|まっすぐ|真っ直ぐ|recto
-B2|14|ゆっくり|ゆっくり|despacio
-B2|14|すぐ|直ぐ|inmediatamente
-B2|14|また|又|otra vez
-B2|14|あとで|後で|después
-B2|14|もうすこし|もう少し|un poco más
-B2|14|しんごう|信号|semaforo
-B2|14|おつり|お釣り|vuelto, cambio
-B2|15|おきます|置きます|poner
-B2|15|つくります|作ります|hacer, crear
-B2|15|うります|売ります|vender
-B2|15|しります|知ります|saber
-B2|15|すみます|住みます|vivir
-B2|15|けんきゅうします|研究します|investigar
-B2|15|すわります|座ります|sentarse
-B2|15|けっこんします|結婚します|casarse
-B2|15|しりょう|資料|documentos
-B2|15|じこくひょう|時刻表|horario (de trenes, buses)
-B2|15|ふく|服|ropa
-B2|15|せいひん|製品|producto
-B2|15|けいざい|経済|economía
-B2|15|しやくしょ|市役所|ayuntamiento
-B2|15|こうこう|高校|escuela secundaria
-B2|15|はいしゃ|歯医者|dentista
-B2|15|どくしん|独身|soltero/a
-B2|15|いらっしゃいます|いらっしゃいます|estar, ir, venir (forma respetuosa)
-B2|16|のります|乗ります|subir (a un vehículo)
-B2|16|おります|降ります|bajar (de un vehículo)
-B2|16|のりかえます|乗り換えます|hacer transbordo
-B2|16|あびます|浴びます|ducharse, bañarse
-B2|16|いれます|入れます|meter, introducir
-B2|16|だします|出します|sacar
-B2|16|おろします|下ろします|retirar (dinero)
-B2|16|おします|押します|empujar
-B2|16|はじめます|始めます|empezar
-B2|16|けんがくします|見学します|visitar (para estudio)
-B2|16|でんわします|電話します|llamar por teléfono
-B2|16|わかい|若い|joven
-B2|16|ながい|長い|largo
-B2|16|みじかい|短い|corto
-B2|16|あかるい|明るい|claro, luminoso
-B2|16|くらい|暗い|oscuro
-B2|16|からだ|体|cuerpo
-B2|16|あたま|頭|cabeza
-B2|16|かみ|髪|cabello
-B2|16|かお|顔|cara
-B2|16|め|目|ojo
-B2|16|みみ|耳|oído, oreja
-B2|16|はな|鼻|nariz
-B2|16|くち|口|boca
-B2|16|は|歯|diente
-B2|16|おなか|お腹|estómago
-B2|16|あし|足|pierna, pie
-B2|16|せ|背|espalda, estatura
-B2|16|おてら|お寺|templo budista
-B2|16|じんじゃ|神社|santuario sintoísta
-B2|16|どうやって|どうやって|cómo
-B2|16|どれ|どれ|cuál
-B2|16|まず|先ず|primero
-B2|16|つぎに|次に|después
-B2|16|あんしょうばんごう|暗証番号|número de identificación personal (PIN)
-B2|16|きんがく|金額|cantidad de dinero
-B2|16|かくにん|確認|confirmación
-B2|17|おぼえます|覚えます|recordar
-B2|17|わすれます|忘れます|olvidar
-B2|17|はらいます|払います|pagar
-B2|17|かえします|返します|devolver
-B2|17|でかけます|出かけます|salir
-B2|17|もっていきます|持っていきます|llevar
-B2|17|ぬぎます|脱ぎます|quitarse
-B2|17|もってきます|持ってきます|traer
-B2|17|しんぱいします|心配します|preocuparse
-B2|17|ざんぎょうします|残業します|hacer horas extra
-B2|17|しゅっちょうします|出張します|viajar por negocios
-B2|17|くすりをのみます|薬を飲みます|tomar medicina
-B2|17|おふろにはいります|お風呂に入ります|bañarse
-B2|17|たいせつな|大切な|importante
-B2|17|だいじょうぶな|大丈夫な|estar bien
-B2|17|あぶない|危ない|peligroso
-B2|17|きんえん|禁煙|prohibido fumar
-B2|17|ほけんしょう|保険証|tarjeta de seguro
-B2|17|ねつ|熱|fiebre
-B2|17|びょうき|病気|enfermedad
-B2|17|くすり|薬|medicina
-B2|17|おふろ|お風呂|baño
-B2|17|うわぎ|上着|chaqueta
-B2|17|したぎ|下着|ropa interior
-B2|17|のど|喉|garganta
-B2|17|かぜ|風邪|resfriado
-B2|17|おだいじに|お大事に|cuídate
-B2|17|それから|それから|y además
-B2|18|あらいます|洗います|lavar
-B2|18|ひきます|弾きます|tocar
-B2|18|うたいます|歌います|cantar
-B2|18|あつめます|集めます|coleccionar
-B2|18|すてます|捨てます|tirar
-B2|18|かえます|換えます|cambiar
-B2|18|うんてんします|運転します|conducir
-B2|18|よやくします|予約します|reservar
-B2|18|げんきん|現金|efectivo
-B2|18|しゅみ|趣味|hobby
-B2|18|にっき|日記|diario
-B2|18|おいのり|お祈り|oración
-B2|18|かちょう|課長|jefe de sección
-B2|18|ぶちょう|部長|director de departamento
-B2|18|しゃちょう|社長|presidente
-B2|18|どうぶつ|動物|animal
-B2|18|うま|馬|caballo
-B2|18|とくに|特に|especialmente
-B2|18|ぜひ|ぜひ|definitivamente
-B2|18|なかなか|なかなか|dificilmente
-B2|19|のぼります|登ります|subir
-B2|19|とまります|泊まります|quedarse
-B2|19|そうじします|掃除します|limpiar
-B2|19|せんたくします|洗濯します|lavar la ropa
-B2|19|なります|なります|convertirse
-B2|19|ねむい|眠い|somnoliento
-B2|19|つよい|強い|fuerte
-B2|19|よわい|弱い|débil
-B2|19|れんしゅう|練習|práctica
-B2|19|すもう|相撲|sumo
-B2|19|おちゃ|お茶|té
-B2|19|ちょうし|調子|estado físico
-B2|19|いちど|一度|una vez
-B2|19|いちども|一度も|ni una vez
-B2|19|だんだん|だんだん|poco a poco
-B2|19|もうすぐ|もうすぐ|pronto
-B2|19|でも|でも|pero
-B2|19|むりな|無理な|imposible
-B2|20|びざがいります|ビザが要ります|se necesita visa
-B2|20|しらべます|調べます|investigar
-B2|20|しゅうりします|修理します|reparar
-B2|20|ぼく|僕|yo (masculino, informal)
-B2|20|きみ|君|tú (informal)
-B2|20|ことば|言葉|palabra
-B2|20|きもの|着物|kimono
-B2|20|はじめ|始め|comienzo
-B2|20|おわり|終わり|fin
-B2|20|だけ|だけ|solo
-B2|20|おなかがいっぱい|お腹がいっぱい|estoy lleno
-B2|20|よかったら|よかったら|si quieres
-B2|20|いろいろ|色々|varios
-B2|21|おもいます|思います|pienso
-B2|21|いいます|言います|digo
-B2|21|かちます|勝ちます|gano
-B2|21|まけます|負けます|pierdo
-B2|21|やくにたちます|役に立ちます|es útil
-B2|21|うごきます|動きます|me muevo
-B2|21|かいしゃをやめます|会社を辞めます|dejo la empresa
-B2|21|きをつけます|気を付けます|tengo cuidado
-B2|21|りゅうがくします|留学します|estudio en el extranjero
-B2|21|むだな|無駄な|innecesario
-B2|21|ふべんな|不便な|inconveniente
-B2|21|ほんとう|本当|verdad
-B2|21|うそ|噓|mentira
-B2|21|じどうしゃ|自動車|automóvil
-B2|21|こうつう|交通|tráfico
-B2|21|ぶっか|物価|precios, coste de vida
-B2|21|ほうそう|放送|emisión, anuncio 
-B2|21|ゆめ|夢|sueño
-B2|21|てんさい|天才|genio
-B2|21|しあい|試合|partido
-B2|21|いけん|意見|opinión
-B2|21|はなし|話し|charla, cuento
-B2|21|ちきゅう|地球|tierra
-B2|21|つき|月|luna
-B2|21|さいきん|最近|recientemente
-B2|21|たぶん|たぶん|tal vez
-B2|21|きっと|きっと|sin falta
-B2|21|もちろん|もちろん|por supuesto
-B2|22|きます|着ます|llevar
-B2|22|はきます|履|ponerse
-B2|22|かぶります|被ります|cubrirse
-B2|22|めがねをかけます|めがねをかけます|usar gafas
-B2|22|ねくたいをします|ねくたいをします|ponerse una corbata
-B2|22|うまれます|生まれます|nacer
-B2|22|わたしたち|私たち|nosotros
-B2|22|ぼうし|帽|sombrero
-B2|22|めがね|眼鏡|gafas
-B2|22|おべんとう|お弁当|bento
-B2|22|つごう|都合|conveniencia
-B2|22|よく|よく|frecuentemente
-B2|22|では|でわ|entonces, bueno
-B2|22|やちん|家賃|alquiler (relativo al importe de dinero)
-B2|22|わしつ|和室|habitación japonesa
-B2|22|おしいれ|押し入れ|armario para guardar futones
-B2|22|ふとん|布団|futón
-B2|23|せんせいのききます|先生の聞きます|preguntar al profesor
-B2|23|まわします|回します|girar
-B2|23|かえます|変えます|cambiar
-B2|23|さわります|触ります|tocar
-B2|23|おつりがでます|お釣りが出ます|dar cambio
-B2|23|あるきます|歩きます|caminar
-B2|23|はしをわたります|橋を渡ります|cruzar un puente
-B2|23|まがります|曲がります|doblar
-B2|23|さびしい|寂しい|triste, solitario
-B2|23|おゆ|お湯|agua caliente
-B2|23|おと|音|sonido
-B2|23|こしょう|故障|avería
-B2|23|みち|道|camino, calle
-B2|23|こうさてん|交差点|intersección
-B2|23|しんごう|信号|semáforo
-B2|23|かど|角|esquina
-B2|23|はし|橋|puente
-B2|23|ちゅうしゃじょう|駐車場|estacionamiento
-B2|23|たてもの|建物|edificio
-B2|23|なんかいも|何回も|varias veces
-B2|24|くれます|くれます|dar
-B2|24|なおします|直します|reparar
-B2|24|つれていきます|連れていきます|llevar (a alguien)
-B2|24|つれてきます|連れてきます|traer (a alguien)
-B2|24|ひとをおくります|人を送ります|llevar a alguien, acompañar 
-B2|24|しょうかいします|紹介します|presentar
-B2|24|あんないします|案内します|guiar, indicar el camino
-B2|24|せつめいします|説明します|explicar
-B2|24|じゅんび|準備|preparación
-B2|24|ひっこし|引っ越し|mudanza
-B2|24|ぜんぶ|全部|todo
-B2|24|じぶんで|自分で|por mi cuenta
-B2|24|ほかに|他に|además, aparte
-B2|25|かんがえます|考えます|pensar
-B2|25|つきます|着きます|llegar
-B2|25|としをとります|年を取ります|envejecer
-B2|25|いなか|田舎|zona rural, pueblo natal
-B2|25|おく|億|cien millones
-B2|25|もし・たら|もし・たら|si…
-B2|25|てんきん|転勤|traslado
-B2|25|ひま|暇|tiempo libre
-B2|25|がんばります|頑張ります|esforzarme
+B1|1|1|せんせい|先生|Profesor, maestro|Teacher, master|Noun
+B1|1|2|きょうし|教師|Profesor, instructor|Teacher, instructor|Noun
+B1|1|3|がくせい|学生|Estudiante|Student|Noun
+B1|1|4|かいしゃいん|会社員|Empleado de una empresa|Company employee|Noun
+B1|1|5|しゃいん|社員|Empleado|Employee|Noun
+B1|1|6|ぎんこういん|銀行員|Empleado de un banco|Bank employee|Noun
+B1|1|7|いしゃ|医者|Médico|Doctor|Noun
+B1|1|8|けんきゅうしゃ|研究者|Investigador|Researcher|Noun
+B1|1|9|だいがく|大学|Universidad|University|Noun
+B1|1|10|びょういん|病院|Hospital|Hospital|Noun
+B1|2|11|じしょ|辞書|Diccionario|Dictionary|Noun
+B1|2|12|ざっし|雑誌|Revista|Magazine|Noun
+B1|2|13|しんぶん|新聞|Periódico|Newspaper|Noun
+B1|2|14|てちょう|手帳|Agenda|Notebook|Noun
+B1|2|15|めいし|名称|Tarjeta de visita|Business card|Noun
+B1|2|16|かぎ|鍵|Llave|Key|Noun
+B1|2|17|とけい|時計|Reloj|Clock|Noun
+B1|2|18|かさ|傘|Paraguas|Umbrella|Noun
+B1|2|19|かばん|鞄|Bolso, maleta|Bag|Noun
+B1|2|20|つくえ|机|Escritorio|Desk|Noun
+B1|2|21|いす|椅子|Silla|Chair|Noun
+B1|2|22|おみやげ|お土産|Souvenir|Souvenir|Noun
+B1|3|23|きょうしつ|教室|Aula|Classroom|Noun
+B1|3|24|しょくどう|食堂|Comedor|Cafeteria|Noun
+B1|3|25|じむしょ|事務所|Oficina|Office|Noun
+B1|3|26|かいぎしつ|会議室|Sala de reuniones|Meeting room|Noun
+B1|3|27|うけつけ|受付|Recepción|Reception|Noun
+B1|3|28|へや|部屋|Habitación|Room|Noun
+B1|3|29|かいだん|階段|Escaleras|Stairs|Noun
+B1|3|30|じどうはんばいき|自動販売機|Máquina expendedora|Vending machine|Noun
+B1|3|31|でんわ|電話|Teléfono|Telephone|Noun
+B1|3|32|かいしゃ|会社|Empresa|Company|Noun
+B1|3|33|うち|家|Casa|House|Noun
+B1|3|34|くつ|靴|Zapatos|Shoes|Noun
+B1|3|35|うりば|売り場|Sección|Sales area|Noun
+B1|3|36|ちか|地下|Sótano|Basement|Noun
+B1|3|37|なんがい|何階|¿Qué piso?|Which floor|Phrase
+B1|3|38|ちゅうしゃじょう|駐車場|Plaza de parking|Parking lot|Noun
+B1|4|39|おきます|起きます|Levantarse|To get up|Verb
+B1|4|40|ねます|寝ます|Acostarse, dormir|To sleep|Verb
+B1|4|41|はたらきます|働きます|Trabajar|To work|Verb
+B1|4|42|やすみます|休みます|Descansar|To rest|Verb
+B1|4|43|べんきょうします|勉強します|Estudiar|To study|Verb
+B1|4|44|おわります|終わります|Terminar|To finish|Verb
+B1|4|45|ぎんこう|銀行|Banco|Bank|Noun
+B1|4|46|ゆうびんきょく|郵便局|Oficina de correos|Post office|Noun
+B1|4|47|としょかん|図書館|Biblioteca|Library|Noun
+B1|4|48|びじゅつかん|美術館|Museo de arte|Art museum|Noun
+B1|4|49|いま|今|Ahora|Now|Adverb
+B1|4|50|あさ|朝日|(Esta) Mañana|Morning|Noun
+B1|4|51|ひる|昼|Mediodía|Noon|Noun
+B1|4|52|ばん|晩|Tarde-noche|Evening|Noun
+B1|4|53|よる|夜|Noche|Night|Noun
+B1|4|54|おととい|一昨日|Anteayer|The day before yesterday|Noun
+B1|4|55|きのう|昨日|Ayer|Yesterday|Noun
+B1|4|56|あした|明日|Mañana|Tomorrow|Noun
+B1|4|57|あさって|明後日|Pasado mañana|The day after tomorrow|Noun
+B1|4|58|しけん|試験|Examen|Exam|Noun
+B1|4|59|かいぎ|会議|Reunión, conferencia|Meeting|Noun
+B1|4|60|えいが|映画|Película|Movie|Noun
+B1|4|61|ばんごう|番号|Número|Number|Noun
+B1|5|62|いきます|行きます|Ir|To go|Verb
+B1|5|63|きます|来ます|Venir|To come|Verb
+B1|5|64|かえります|帰ります|Volver|To return|Verb
+B1|5|65|がっこう|学校|Escuela|School|Noun
+B1|5|66|えき|駅|Estación|Station|Noun
+B1|5|67|ひこうき|飛行機|Avión|Airplane|Noun
+B1|5|68|ふね|船|Barco|Ship|Noun
+B1|5|69|でんしゃ|電車|Tren|Train|Noun
+B1|5|70|ちかてつ|地下鉄|Metro|Subway|Noun
+B1|5|71|しんかんせん|新幹線|Tren bala|Bullet train|Noun
+B1|5|72|じてんしゃ|自転車|Bicicleta|Bicycle|Noun
+B1|5|73|あるいて|歩いて|A pie|Walking|Phrase
+B1|5|74|ひと|人|Persona|Person|Noun
+B1|5|75|ともだち|友達|Amigo|Friend|Noun
+B1|5|76|かれ|彼|Él|He|Pronoun
+B1|5|77|かのじょ|彼女|Ella|She|Pronoun
+B1|5|78|かぞく|家族|Familia|Family|Noun
+B1|5|79|きょねん|去年|El año pasado|Last year|Noun
+B1|5|80|ことし|今年|Este año|This year|Noun
+B1|5|81|らいねん|来年|El próximo año|Next year|Noun
+B1|5|82|たんじょうび|誕生日|Cumpleaños|Birthday|Noun
+B1|5|83|ばんせん|番線|Andén|Track|Noun
+B1|5|84|つぎ|次|Siguiente|Next|Noun
+B1|5|85|ふつう|普通|Normal|Normal|Noun
+B1|6|86|たべます|食べます|Comer|To eat|Verb
+B1|6|87|のみます|飲みます|Beber|To drink|Verb
+B1|6|88|みます|見ます|Ver|To see|Verb
+B1|6|89|すいます|吸います|Fumar|To smoke|Verb
+B1|6|90|ききます|聞きます|Escuchar|To listen|Verb
+B1|6|91|よみます|読みます|Leer|To read|Verb
+B1|6|92|かきます|書きます|Escribir|To write|Verb
+B1|6|93|かいます|買います|Comprar|To buy|Verb
+B1|6|94|しゃしんをとります|写真を撮ります|Tomar una foto|To take a photo|Verb
+B1|6|95|あいます|会います|Encontrarse|To meet|Verb
+B1|6|96|ごはん|ご飯|Comida|Meal|Noun
+B1|6|97|たまご|卵|Huevo|Egg|Noun
+B1|6|98|にく|肉|Carne|Meat|Noun
+B1|6|99|さかな|魚|Pescado|Fish|Noun
+B1|6|100|やさい|野菜|Verdura|Vegetable|Noun
+B1|6|101|くだもの|果物|Fruta|Fruit|Noun
+B1|6|102|みず|水|Agua|Water|Noun
+B1|6|103|ぎゅうにゅう|牛乳|Leche|Milk|Noun
+B1|6|104|おさけ|お酒|Alcohol|Alcohol|Noun
+B1|6|105|てがみ|手紙|Carta|Letter|Noun
+B1|6|106|しゃしん|写真|Foto|Photo|Noun
+B1|6|107|みせ|店|Tienda|Store|Noun
+B1|6|108|にわ|庭|Jardín|Garden|Noun
+B1|6|109|しゅくだい|宿題|Tarea|Homework|Noun
+B1|6|110|はなみ|花見|Ver las flores|Flower viewing|Noun
+B1|6|111|なに|何|Qué|What|Pronoun
+B1|6|112|いっしょに|一緒に|Juntos|Together|Adverb
+B1|6|113|ときどき|時々|A veces|Sometimes|Adverb
+B1|6|114|たまねぎ|玉葱|Cebolla|Onion|Noun
+B1|6|115|にんじん|人参|Zanahoria|Carrot|Noun
+B1|6|116|だいこん|大根|Rábano blanco|Daikon radish|Noun
+B1|6|117|まめ|豆|Frijol|Bean|Noun
+B1|7|118|きります|切ります|Cortar|Cut|Verb
+B1|7|119|おくります|送ります|Enviar|Send|Verb
+B1|7|120|あげます|上げます|Dar|Give|Verb
+B1|7|121|もらいます|貰います|Recibir|Receive|Verb
+B1|7|122|かします|貸します|Prestar|Lend|Verb
+B1|7|123|かります|借ります|Pedir prestado|Borrow|Verb
+B1|7|124|おしえます|教えます|Enseñar|Teach|Verb
+B1|7|125|ならいます|習います|Aprender|Learn|Verb
+B1|7|126|でんわをかけます|電話をかけます|Llamar por teléfono|Make a phone call|Verb
+B1|7|127|て|手|Mano|Hand|Noun
+B1|7|128|はさみ|鋏|Tijeras|Scissors|Noun
+B1|7|129|はし|箸|Palillos|Chopsticks|Noun
+B1|7|130|ねんがじょう|年賀状|Tarjeta de año nuevo|New Year's card|Noun
+B1|7|131|けしゴム|消しゴム|Goma de borrar|Eraser|Noun
+B1|7|132|にもつ|荷物|Equipaje|Luggage|Noun
+B1|7|133|おかね|お金|Dinero|Money|Noun
+B1|7|134|きっぷ|切符|Boleto|Ticket|Noun
+B1|7|135|ちち|父|Padre|Father|Noun
+B1|7|136|はは|母|Madre|Mother|Noun
+B1|8|137|しずかな|静かな|Tranquilo/a|Quiet|Adjective
+B1|8|138|にぎやかな|賑やかな|Animado/a|Lively|Adjective
+B1|8|139|ゆうめいな|有名な|Famoso/a|Famous|Adjective
+B1|8|140|しんせつな|親切な|Amable|Kind|Adjective
+B1|8|141|げんきな|元気な|Sano/a|Healthy|Adjective
+B1|8|142|ひまな|暇な|Libre|Free|Adjective
+B1|8|143|べんりな|便利な|Conveniente|Convenient|Adjective
+B1|8|144|すてきな|素敵な|Bonito/a|Lovely|Adjective
+B1|8|145|おおきい|大きい|Grande|Big|Adjective
+B1|8|146|ちいさい|小さい|Pequeño/a|Small|Adjective
+B1|8|147|あたらしい|新しい|Nuevo/a|New|Adjective
+B1|8|148|ふるい|古い|Viejo/a|Old|Adjective
+B1|8|149|いい、よい|良い|Bueno/a|Good|Adjective
+B1|8|150|わるい|悪い|Malo/a|Bad|Adjective
+B1|8|151|あつい|暑い|Caluroso/a|Hot|Adjective
+B1|8|152|さむい|寒い|Frío/a|Cold|Adjective
+B1|8|153|つめたい|冷たい|Frío/a (al tacto)|Cold (to the touch)|Adjective
+B1|8|154|むずかしい|難しい|Difícil|Difficult|Adjective
+B1|8|155|ひくい|低い|Bajo/a|Low|Adjective
+B1|8|156|おもしろい|面白い|Interesante|Interesting|Adjective
+B1|8|157|おいしい|美味しい|Delicioso/a|Delicious|Adjective
+B1|8|158|いそがしい|忙しい|Ocupado/a|Busy|Adjective
+B1|8|159|たのしい|楽しい|Divertido/a|Fun|Adjective
+B1|8|160|しろい|白い|Blanco/a|White|Adjective
+B1|8|161|くろい|黒い|Negro/a|Black|Adjective
+B1|8|162|あかい|赤い|Rojo/a|Red|Adjective
+B1|8|163|あおい|青い|Azul|Blue|Adjective
+B1|8|164|みどり|緑|Verde|Green|Adjective
+B1|8|165|むらさき|紫|Morado/a|Purple|Adjective
+B1|8|166|きいろ|黄色|Amarillo/a|Yellow|Adjective
+B1|8|167|ちゃいろ|茶色|Marrón|Brown|Adjective
+B1|8|168|あまい|甘い|Dulce|Sweet|Adjective
+B1|8|169|からい|辛い|Picante|Spicy|Adjective
+B1|8|170|にがい|苦い|Amargo/a|Bitter|Adjective
+B1|8|171|しおからい|塩辛い|Salado/a|Salty|Adjective
+B1|8|172|すっぱい|酸っぱい|Ácido/a|Sour|Adjective
+B1|8|173|こい|濃い|Fuerte (sabor)|Strong (flavor)|Adjective
+B1|8|174|うすい|薄い|Suave (sabor)|Mild (flavor)|Adjective
+B1|8|175|まち|町|Ciudad|Town|Noun
+B1|8|176|ところ|所|Lugar|Place|Noun
+B1|8|177|りょう|寮|Residencia|Dormitory|Noun
+B1|8|178|せいかつ|生活|Vida diaria|Daily life|Noun
+B1|8|179|しごと|仕事|Trabajo|Work|Noun
+B1|9|180|すき|好きな|Gustar|Like|Adjective
+B1|9|181|きらい|嫌いな|No gustar|Dislike|Adjective
+B1|9|182|じょうず|上手な|Hábil|Skilled|Adjective
+B1|9|183|へた|下手な|Torpe|Unskilled|Adjective
+B1|9|184|のみもの|飲み物|Bebida|Drink|Noun
+B1|9|185|りょうり|料理|Comida (cocinada)|Cuisine|Noun
+B1|9|186|やきゅう|野球|Béisbol|Baseball|Noun
+B1|9|187|りょこう|旅行|Viaje|Travel|Noun
+B1|9|188|おんがく|音楽|Música|Music|Noun
+B1|9|189|うた|歌|Canción|Song|Noun
+B1|9|190|え|絵|Dibujo|Drawing|Noun
+B1|9|191|じ|字|Letra|Character|Noun
+B1|9|192|こまかい|細かい|Minucioso/a|Detailed|Adjective
+B1|9|193|じかん|時間|Tiempo|Time|Noun
+B1|9|194|ようじ|用事|Tarea|Errand|Noun
+B1|9|195|やくそく|約束|Compromiso|Promise|Noun
+B1|9|196|ごしゅじん|ご主人|Esposo (de otra persona)|Husband (of someone else)|Noun
+B1|9|197|おっと|夫|Esposo|Husband|Noun
+B1|9|198|おくさん|奥さん|Esposa (de otra persona)|Wife (of someone else)|Noun
+B1|9|199|つま|妻|Esposa|Wife|Noun
+B1|9|200|こども|子ども|Niño/a|Child|Noun
+B1|9|201|だいたい|大体|Más o menos|About, approximately|Adverb
+B1|9|202|たくさん|沢山|Mucho/a|A lot|Adverb
+B1|9|203|よく|良く|Bien, frecuente|Well, often|Adverb
+B1|9|204|すこし|少し|Un poco|A little|Adverb
+B1|9|205|ぜんぜん|全然|Nada|Not at all|Adverb
+B1|9|206|はやく|早く|Rápido/a|Quickly|Adverb
+B1|10|207|いろいろ|色々|Varios, diversas|Various, diverse|Adjective
+B1|10|208|おとこ|男|Hombre|Man|Noun
+B1|10|209|おんな|女|Mujer|Woman|Noun
+B1|10|210|おとこのこ|男の子|Niño|Boy|Noun
+B1|10|211|おんなのこ|女の子|Niña|Girl|Noun
+B1|10|212|いぬ|犬|Perro|Dog|Noun
+B1|10|213|ねこ|猫|Gato|Cat|Noun
+B1|10|214|ぞう|象|Elefante|Elephant|Noun
+B1|10|215|き|木|Árbol|Tree|Noun
+B1|10|216|もの|物|Cosa, objeto|Thing|Noun
+B1|10|217|でんち|電池|Pila, batería|Battery|Noun
+B1|10|218|はこ|箱|Caja|Box|Noun
+B1|10|219|れいぞうく|冷蔵庫|Refrigerador|Refrigerator|Noun
+B1|10|220|たな|棚|Estante|Shelf|Noun
+B1|10|221|まど|窓|Ventana|Window|Noun
+B1|10|222|こうえん|公園|Parque|Park|Noun
+B1|10|223|きっさてん|喫茶店|Cafetería|Tea house|Noun
+B1|10|224|のりば|乗り場|Parada (de transporte)|Stop (transport)|Noun
+B1|10|225|けん|県|Prefectura|Prefecture|Noun
+B1|10|226|うえ|上|Arriba|Above|Noun
+B1|10|227|した|下|Abajo|Below|Noun
+B1|10|228|まえ|前|Delante|Front|Noun
+B1|10|229|うしろ|後ろ|Detrás|Behind|Noun
+B1|10|230|みぎ|右|Derecha|Right|Noun
+B1|10|231|ひだり|左|Izquierda|Left|Noun
+B1|10|232|なか|中|Dentro|Inside|Noun
+B1|10|233|そと|外|Fuera|Outside|Noun
+B1|10|234|となり|隣|Al lado|Next to|Noun
+B1|10|235|ちかく|近く|Cerca|Near|Noun
+B1|10|236|あいだ|間|Entre|Between|Noun
+B1|11|237|かかります|掛かります|Tardar|To take (time)|Verb
+B1|11|238|やすみます|休みます|Descansar|To rest|Verb
+B1|11|239|ひとつ|一つ|Uno|One|Noun
+B1|11|240|いくつ|幾つ|Cuántos, cuántas|How many|Pronoun
+B1|11|241|ひとり|一人|Una persona|One person|Noun
+B1|11|242|ふたり|二人|Dos personas|Two people|Noun
+B1|11|243|りんご|林檎|Manzana|Apple|Noun
+B1|11|244|みかん|蜜柑|Mandarina|Mandarin|Noun
+B1|11|245|きって|切手|Sello|Stamp|Noun
+B1|11|246|はがき|葉書|Postal|Postcard|Noun
+B1|11|247|ふうとう|封筒|Sobre|Envelope|Noun
+B1|11|248|りょうしん|両親|Padres|Parents|Noun
+B1|11|249|きょうだい|兄弟|Hermanos|Siblings|Noun
+B1|11|250|むすめ|娘|Hija|Daughter|Noun
+B1|11|251|むすこ|息子|Hijo|Son|Noun
+B1|11|252|あに|兄|Hermano mayor|Older brother|Noun
+B1|11|253|あね|姉|Hermana mayor|Older sister|Noun
+B1|11|254|おとうと|弟|Hermano menor|Younger brother|Noun
+B1|11|255|いもうと|妹|Hermana menor|Younger sister|Noun
+B1|11|256|がいこく|外国|País extranjero|Foreign country|Noun
+B1|11|257|りゅうがくせい|留学生|Estudiante extranjero|Exchange student|Noun
+B1|11|258|どのくらい|どの位|Cuánto tiempo, cuánto|How long, how much|Phrase
+B1|11|259|ぜんぶで|全部で|En total|In total|Phrase
+B1|11|260|みんな|皆|Todos|Everyone|Pronoun
+B1|11|261|だけ|丈|Sólo|Only|Adverb
+B1|12|262|かんたん|簡単な|Sencillo, fácil|Easy, simple|Adjective
+B1|12|263|ちかい|近い|Cerca|Near|Adjective
+B1|12|264|とおい|遠い|Lejos|Far|Adjective
+B1|12|265|はやい|速い|Rápido|Fast|Adjective
+B1|12|266|おそい|遅い|Lento, tarde|Slow|Adjective
+B1|12|267|おおい|多い|Muchos|Many|Adjective
+B1|12|268|すくない|少ない|Pocos|Few|Adjective
+B1|12|269|あたたかい|暖かい|Cálido|Warm|Adjective
+B1|12|270|すずしい|すずしい|Fresco|Cool|Adjective
+B1|12|271|あまい|甘い|Dulce|Sweet|Adjective
+B1|12|272|からい|辛い|Picante, salado|Spicy|Adjective
+B1|12|273|おもい|重い|Pesado|Heavy|Adjective
+B1|12|274|かるい|軽い|Ligero|Light|Adjective
+B1|12|275|きせつ|季節|Estación (del año)|Season|Noun
+B1|12|276|はる|春|Primavera|Spring|Noun
+B1|12|277|なつ|夏|Verano|Summer|Noun
+B1|12|278|あき|秋|Otoño|Autumn|Noun
+B1|12|279|ふゆ|冬|Invierno|Winter|Noun
+B1|12|280|てんき|天気|Clima|Weather|Noun
+B1|12|281|あめ|雨|Lluvia|Rain|Noun
+B1|12|282|ゆき|雪|Nieve|Snow|Noun
+B1|12|283|くもり|曇|Nublado|Cloudy|Noun
+B1|12|284|くうこう|空港|Aeropuerto|Airport|Noun
+B1|12|285|うみ|海|Mar|Sea|Noun
+B1|12|286|せかい|世界|Mundo|World|Noun
+B1|12|287|まつり|祭り|Festival|Festival|Noun
+B1|12|288|すきやき|すき焼き|Sukiyaki (plato japonés)|Sukiyaki|Noun
+B1|12|289|さしみ|刺身|Sashimi (pescado crudo)|Sashimi|Noun
+B1|12|290|すし|寿司|Sushi|Sushi|Noun
+B1|12|291|ぶたにく|豚肉|Carne de cerdo|Pork|Noun
+B1|12|292|とりにく|鶏肉|Carne de pollo|Chicken|Noun
+B1|12|293|ぎゅうにく|牛肉|Carne de res|Beef|Noun
+B1|12|294|いけばな|生け花|Ikebana (arte floral japonés)|Ikebana|Noun
+B1|12|295|もみじ|紅葉|Hojas de otoño|Autumn leaves|Noun
+B1|12|296|いちばん|一番|El primero, el mejor|The first, the best|Noun
+B1|12|297|ずっと|ずっと|Todo el tiempo, mucho|All the time, for a long time|Adverb
+B1|12|298|どちら|どちら|Cuál, dónde|Which, where|Pronoun
+B1|12|299|どちらも|どちらも|Ambos|Both|Pronoun
+B1|13|300|あそびます|遊びます|Jugar, divertirse|To play|Verb
+B1|13|301|およぎます|泳ぎます|Nadar|To swim|Verb
+B1|13|302|むかえます|迎えます|Recibir, recoger|To receive, to pick up|Verb
+B1|13|303|つかれます|疲れます|Cansarse|To get tired|Verb
+B1|13|304|けっこんします|結婚します|Casarse|To get married|Verb
+B1|13|305|かいものします|買い物します|Ir de compras|To go shopping|Verb
+B1|13|306|しょくじします|食事します|Comer|To have a meal|Verb
+B1|13|307|さんぽします|散歩します|Pasear|To take a walk|Verb
+B1|13|308|たいへん|大変|Difícil, grave|Difficult, serious|Adjective
+B1|13|309|ほしい|欲しい|Querer (algo)|Want (something)|Adjective
+B1|13|310|ひろい|広い|Amplio|Wide, spacious|Adjective
+B1|13|311|せまい|狭い|Estrecho|Narrow|Adjective
+B1|13|312|かわ|川|Río|River|Noun
+B1|13|313|びじゅつ|美術|Arte|Art|Noun
+B1|13|314|つり|釣り|Pesca|Fishing|Noun
+B1|13|315|しゅうまつ|週末|Fin de semana|Weekend|Noun
+B1|13|316|おしょうがつ|お正月|Año Nuevo|New Year|Noun
+B1|13|317|なにか|何か|Algo|Something|Pronoun
+B1|13|318|のどがかわります|喉が渇ります|Tengo sed|I am thirsty|Phrase
+B1|13|319|おなかがすきます|お腹が空きます|Tengo hambre|I am hungry|Phrase
+B1|13|320|ていしょく|定食|Menú del día|Set meal|Noun
+B2|14|321|つけます|点けます|Encender|To turn on|Verb
+B2|14|322|けします|消します|Apagar|To turn off|Verb
+B2|14|323|あけます|開けます|Abrir|To open|Verb
+B2|14|324|しめます|閉めます|Cerrar|To close|Verb
+B2|14|325|いそぎます|急ぎます|Apresurarse|To hurry|Verb
+B2|14|326|まちます|待ちます|Esperar|To wait|Verb
+B2|14|327|とります|取ります|Tomar|To take|Verb
+B2|14|328|てつだいます|手伝います|Ayudar|To help|Verb
+B2|14|329|よびます|呼びます|Llamar|To call|Verb
+B2|14|330|はなします|話します|Hablar|To speak|Verb
+B2|14|331|つかいます|使います|Usar|To use|Verb
+B2|14|332|とめます|止めます|Detener|To stop|Verb
+B2|14|333|みせます|見せます|Mostrar|To show|Verb
+B2|14|334|おしえます|教えます|Enseñar|To teach|Verb
+B2|14|335|すわります|座ります|Sentarse|To sit|Verb
+B2|14|336|たちます|立ちます|Pararse|To stand|Verb
+B2|14|337|はいります|入ります|Entrar|To enter|Verb
+B2|14|338|でます|出ます|Salir|To go out|Verb
+B2|14|339|おります|降ります|Bajarse|To get off|Verb
+B2|14|340|でんき|でんき|Electricidad|Electricity|Noun
+B2|14|341|じゅうしょ|住所|Dirección|Address|Noun
+B2|14|342|ちず|地図|Mapa|Map|Noun
+B2|14|343|しお|塩|Sal|Salt|Noun
+B2|14|344|さとう|砂糖|Azúcar|Sugar|Noun
+B2|14|345|もんだい|問題|Problema|Problem|Noun
+B2|14|346|こたえ|答え|Respuesta|Answer|Noun
+B2|14|347|よみかた|読み方|Forma de leer|Reading style|Noun
+B2|14|348|かた|方|Dirección, manera|Direction, way|Noun
+B2|14|349|まっすぐ|真っ直ぐ|Recto|Straight|Adjective
+B2|14|350|ゆっくり|ゆっくり|Despacio|Slowly|Adverb
+B2|14|351|すぐ|直ぐ|Inmediatamente|Immediately|Adverb
+B2|14|352|また|又|Otra vez|Again|Adverb
+B2|14|353|あとで|後で|Después|Later|Adverb
+B2|14|354|もうすこし|もう少し|Un poco más|A little more|Adverb
+B2|14|355|しんごう|信号|Semáforo|Traffic light|Noun
+B2|14|356|おつり|お釣り|Vuelto, cambio|Change|Noun
+B2|15|357|おきます|置きます|Poner|To put|Verb
+B2|15|358|つくります|作ります|Hacer, crear|To make, to create|Verb
+B2|15|359|うります|売ります|Vender|To sell|Verb
+B2|15|360|しります|知ります|Saber|To know|Verb
+B2|15|361|すみます|住みます|Vivir|To live|Verb
+B2|15|362|けんきゅうします|研究します|Investigar|To research|Verb
+B2|15|363|すわります|座ります|Sentarse|To sit|Verb
+B2|15|364|けっこんします|結婚します|Casarse|To get married|Verb
+B2|15|365|しりょう|資料|Documentos|Documents|Noun
+B2|15|366|じこくひょう|時刻表|Horario (de trenes, buses)|Timetable|Noun
+B2|15|367|ふく|服|Ropa|Clothes|Noun
+B2|15|368|せいひん|製品|Producto|Product|Noun
+B2|15|369|けいざい|経済|Economía|Economy|Noun
+B2|15|370|しやくしょ|市役所|Ayuntamiento|City hall|Noun
+B2|15|371|こうこう|高校|Escuela secundaria|High school|Noun
+B2|15|372|はいしゃ|歯医者|Dentista|Dentist|Noun
+B2|15|373|どくしん|独身|Soltero/a|Single|Noun
+B2|15|374|いらっしゃいます|いらっしゃいます|Estar, ir, venir (forma respetuosa)|To be, to go, to come (respectful form)|Verb
+B2|16|375|のります|乗ります|Subir (a un vehículo)|To ride|Verb
+B2|16|376|おります|降ります|Bajar (de un vehículo)|To get off|Verb
+B2|16|377|のりかえます|乗り換えます|Hacer transbordo|To transfer|Verb
+B2|16|378|あびます|浴びます|Ducharse, bañarse|To take a shower|Verb
+B2|16|379|いれます|入れます|Meter, introducir|To put in|Verb
+B2|16|380|だします|出します|Sacar|To take out|Verb
+B2|16|381|おろします|下ろします|Retirar (dinero)|To withdraw (money)|Verb
+B2|16|382|おします|押します|Empujar|To push|Verb
+B2|16|383|はじめます|始めます|Empezar|To start|Verb
+B2|16|384|けんがくします|見学します|Visitar (para estudio)|To observe (for study)|Verb
+B2|16|385|でんわします|電話します|Llamar por teléfono|To call (by phone)|Verb
+B2|16|386|わかい|若い|Joven|Young|Adjective
+B2|16|387|ながい|長い|Largo|Long|Adjective
+B2|16|388|みじかい|短い|Corto|Short|Adjective
+B2|16|389|あかるい|明るい|Claro, luminoso|Bright|Adjective
+B2|16|390|くらい|暗い|Oscuro|Dark|Adjective
+B2|16|391|からだ|体|Cuerpo|Body|Noun
+B2|16|392|あたま|頭|Cabeza|Head|Noun
+B2|16|393|かみ|髪|Cabello|Hair|Noun
+B2|16|394|かお|顔|Cara|Face|Noun
+B2|16|395|め|目|Ojo|Eye|Noun
+B2|16|396|みみ|耳|Oído, oreja|Ear|Noun
+B2|16|397|はな|鼻|Nariz|Nose|Noun
+B2|16|398|くち|口|Boca|Mouth|Noun
+B2|16|399|は|歯|Diente|Tooth|Noun
+B2|16|400|おなか|お腹|Estómago|Stomach|Noun
+B2|16|401|あし|足|Pierna, pie|Leg, foot|Noun
+B2|16|402|せ|背|Espalda, estatura|Back, height|Noun
+B2|16|403|おてら|お寺|Templo budista|Buddhist temple|Noun
+B2|16|404|じんじゃ|神社|Santuario sintoísta|Shinto shrine|Noun
+B2|16|405|どうやって|どうやって|Cómo|How|Adverb
+B2|16|406|どれ|どれ|Cuál|Which|Pronoun
+B2|16|407|まず|先ず|Primero|First|Adverb
+B2|16|408|つぎに|次に|Después|Next|Adverb
+B2|16|409|あんしょうばんごう|暗証番号|Número de identificación personal (PIN)|Personal identification number (PIN)|Noun
+B2|16|410|きんがく|金額|Cantidad de dinero|Amount of money|Noun
+B2|16|411|かくにん|確認|Confirmación|Confirmation|Noun
+B2|17|412|おぼえます|覚えます|Recordar|To remember|Verb
+B2|17|413|わすれます|忘れます|Olvidar|To forget|Verb
+B2|17|414|はらいます|払います|Pagar|To pay|Verb
+B2|17|415|かえします|返します|Devolver|To return|Verb
+B2|17|416|でかけます|出かけます|Salir|To go out|Verb
+B2|17|417|もっていきます|持っていきます|Llevar|To take (something)|Verb
+B2|17|418|ぬぎます|脱ぎます|Quitarse|To take off|Verb
+B2|17|419|もってきます|持ってきます|Traer|To bring|Verb
+B2|17|420|しんぱいします|心配します|Preocuparse|To worry|Verb
+B2|17|421|ざんぎょうします|残業します|Hacer horas extra|To work overtime|Verb
+B2|17|422|しゅっちょうします|出張します|Viajar por negocios|To go on a business trip|Verb
+B2|17|423|くすりをのみます|薬を飲みます|Tomar medicina|To take medicine|Verb
+B2|17|424|おふろにはいります|お風呂に入ります|Bañarse|To take a bath|Verb
+B2|17|425|たいせつな|大切な|Importante|Important|Adjective
+B2|17|426|だいじょうぶな|大丈夫な|Estar bien|To be okay|Adjective
+B2|17|427|あぶない|危ない|Peligroso|Dangerous|Adjective
+B2|17|428|きんえん|禁煙|Prohibido fumar|No smoking|Noun
+B2|17|429|ほけんしょう|保険証|Tarjeta de seguro|Insurance card|Noun
+B2|17|430|ねつ|熱|Fiebre|Fever|Noun
+B2|17|431|びょうき|病気|Enfermedad|Illness|Noun
+B2|17|432|くすり|薬|Medicina|Medicine|Noun
+B2|17|433|おふろ|お風呂|Baño|Bath|Noun
+B2|17|434|うわぎ|上着|Chaqueta|Jacket|Noun
+B2|17|435|したぎ|下着|Ropa interior|Underwear|Noun
+B2|17|436|のど|喉|Garganta|Throat|Noun
+B2|17|437|かぜ|風邪|Resfriado|Cold|Noun
+B2|17|438|おだいじに|お大事に|Cuídate|Take care|Phrase
+B2|17|439|それから|それから|Y además|And then|Conjunction
+B2|18|440|あらいます|洗います|Lavar|To wash|Verb
+B2|18|441|ひきます|弾きます|Tocar|To play (an instrument)|Verb
+B2|18|442|うたいます|歌います|Cantar|To sing|Verb
+B2|18|443|あつめます|集めます|Coleccionar|To collect|Verb
+B2|18|444|すてます|捨てます|Tirar|To throw away|Verb
+B2|18|445|かえます|換えます|Cambiar|To exchange|Verb
+B2|18|446|うんてんします|運転します|Conducir|To drive|Verb
+B2|18|447|よやくします|予約します|Reservar|To reserve|Verb
+B2|18|448|げんきん|現金|Efectivo|Cash|Noun
+B2|18|449|しゅみ|趣味|Hobby|Hobby|Noun
+B2|18|450|にっき|日記|Diario|Diary|Noun
+B2|18|451|おいのり|お祈り|Oración|Prayer|Noun
+B2|18|452|かちょう|課長|Jefe de sección|Section chief|Noun
+B2|18|453|ぶちょう|部長|Director de departamento|Department head|Noun
+B2|18|454|しゃちょう|社長|Presidente|President|Noun
+B2|18|455|どうぶつ|動物|Animal|Animal|Noun
+B2|18|456|うま|馬|Caballo|Horse|Noun
+B2|18|457|とくに|特に|Especialmente|Especially|Adverb
+B2|18|458|ぜひ|ぜひ|Definitivamente|Definitely|Adverb
+B2|18|459|なかなか|なかなか|Dificilmente|Hardly|Adverb
+B2|19|460|のぼります|登ります|Subir|To climb|Verb
+B2|19|461|とまります|泊まります|Quedarse|To stay (overnight)|Verb
+B2|19|462|そうじします|掃除します|Limpiar|To clean|Verb
+B2|19|463|せんたくします|洗濯します|Lavar la ropa|To do laundry|Verb
+B2|19|464|なります|なります|Convertirse|To become|Verb
+B2|19|465|ねむい|眠い|Somnoliento|Sleepy|Adjective
+B2|19|466|つよい|強い|Fuerte|Strong|Adjective
+B2|19|467|よわい|弱い|Débil|Weak|Adjective
+B2|19|468|れんしゅう|練習|Práctica|Practice|Noun
+B2|19|469|すもう|相撲|Sumo|Sumo|Noun
+B2|19|470|おちゃ|お茶|Té|Tea|Noun
+B2|19|471|ちょうし|調子|Estado físico|Condition|Noun
+B2|19|472|いちど|一度|Una vez|Once|Adverb
+B2|19|473|いちども|一度も|Ni una vez|Not even once|Phrase
+B2|19|474|だんだん|だんだん|Poco a poco|Gradually|Adverb
+B2|19|475|もうすぐ|もうすぐ|Pronto|Soon|Adverb
+B2|19|476|でも|でも|Pero|But|Conjunction
+B2|19|477|むりな|無理な|Imposible|Impossible|Adjective
+B2|20|478|びざがいります|ビザが要ります|Se necesita visa|A visa is needed|Phrase
+B2|20|479|しらべます|調べます|Investigar|To investigate|Verb
+B2|20|480|しゅうりします|修理します|Reparar|To repair|Verb
+B2|20|481|ぼく|僕|Yo (masculino, informal)|I (male, informal)|Pronoun
+B2|20|482|きみ|君|Tú (informal)|You (informal)|Pronoun
+B2|20|483|ことば|言葉|Palabra|Word|Noun
+B2|20|484|きもの|着物|Kimono|Kimono|Noun
+B2|20|485|はじめ|始め|Comienzo|Beginning|Noun
+B2|20|486|おわり|終わり|Fin|End|Noun
+B2|20|487|だけ|だけ|Solo|Only|Adverb
+B2|20|488|おなかがいっぱい|お腹がいっぱい|Estoy lleno|I'm full|Phrase
+B2|20|489|よかったら|よかったら|Si quieres|If you like|Phrase
+B2|20|490|いろいろ|色々|Varios|Various|Adjective
+B2|21|491|おもいます|思います|Pienso|I think|Verb
+B2|21|492|いいます|言います|Digo|I say|Verb
+B2|21|493|かちます|勝ちます|Gano|I win|Verb
+B2|21|494|まけます|負けます|Pierdo|I lose|Verb
+B2|21|495|やくにたちます|役に立ちます|Es útil|It is useful|Verb
+B2|21|496|うごきます|動きます|Me muevo|I move|Verb
+B2|21|497|かいしゃをやめます|会社を辞めます|Dejo la empresa|I quit the company|Verb
+B2|21|498|きをつけます|気を付けます|Tengo cuidado|I take care|Verb
+B2|21|499|りゅうがくします|留学します|Estudio en el extranjero|To study abroad|Verb
+B2|21|500|むだな|無駄な|Innecesario|Unnecessary|Adjective
+B2|21|501|ふべんな|不便な|Inconveniente|Inconvenient|Adjective
+B2|21|502|ほんとう|本当|Verdad|Truth|Noun
+B2|21|503|うそ|噓|Mentira|Lie|Noun
+B2|21|504|じどうしゃ|自動車|Automóvil|Automobile|Noun
+B2|21|505|こうつう|交通|Tráfico|Traffic|Noun
+B2|21|506|ぶっか|物価|Precios, coste de vida|Prices, cost of living|Noun
+B2|21|507|ほうそう|放送|Emisión, anuncio|Broadcast, announcement|Noun
+B2|21|508|ゆめ|夢|Sueño|Dream|Noun
+B2|21|509|てんさい|天才|Genio|Genius|Noun
+B2|21|510|しあい|試合|Partido|Match|Noun
+B2|21|511|いけん|意見|Opinión|Opinion|Noun
+B2|21|512|はなし|話し|Charla, cuento|Talk, story|Noun
+B2|21|513|ちきゅう|地球|Tierra|Earth|Noun
+B2|21|514|つき|月|Luna|Moon|Noun
+B2|21|515|さいきん|最近|Recientemente|Recently|Adverb
+B2|21|516|たぶん|たぶん|Tal vez|Maybe|Adverb
+B2|21|517|きっと|きっと|Sin falta|Surely|Adverb
+B2|21|518|もちろん|もちろん|Por supuesto|Of course|Adverb
+B2|22|519|きます|着ます|Llevar|To wear|Verb
+B2|22|520|はきます|履|Ponerse|To put on (footwear)|Verb
+B2|22|521|かぶります|被ります|Cubrirse|To cover|Verb
+B2|22|522|めがねをかけます|めがねをかけます|Usar gafas|To wear glasses|Verb
+B2|22|523|ねくたいをします|ねくたいをします|Ponerse una corbata|To put on a necktie|Verb
+B2|22|524|うまれます|生まれます|Nacer|To be born|Verb
+B2|22|525|わたしたち|私たち|Nosotros|We|Pronoun
+B2|22|526|ぼうし|帽|Sombrero|Hat|Noun
+B2|22|527|めがね|眼鏡|Gafas|Glasses|Noun
+B2|22|528|おべんとう|お弁当|Bento|Bento|Noun
+B2|22|529|つごう|都合|Conveniencia|Convenience|Noun
+B2|22|530|よく|よく|Frecuentemente|Frequently|Adverb
+B2|22|531|では|でわ|Entonces, bueno|Well then|Conjunction
+B2|22|532|やちん|家賃|Alquiler (relativo al importe de dinero)|Rent|Noun
+B2|22|533|わしつ|和室|Habitación japonesa|Japanese-style room|Noun
+B2|22|534|おしいれ|押し入れ|Armario para guardar futones|Futon storage|Noun
+B2|22|535|ふとん|布団|Futón|Futon|Noun
+B2|23|536|せんせいのききます|先生の聞きます|Preguntar al profesor|To ask the teacher|Verb
+B2|23|537|まわします|回します|Girar|To turn|Verb
+B2|23|538|かえます|変えます|Cambiar|To change|Verb
+B2|23|539|さわります|触ります|Tocar|To touch|Verb
+B2|23|540|おつりがでます|お釣りが出ます|Dar cambio|To give change|Phrase
+B2|23|541|あるきます|歩きます|Caminar|To walk|Verb
+B2|23|542|はしをわたります|橋を渡ります|Cruzar un puente|To cross a bridge|Verb
+B2|23|543|まがります|曲がります|Doblar|To bend|Verb
+B2|23|544|さびしい|寂しい|Triste, solitario|Lonely|Adjective
+B2|23|545|おゆ|お湯|Agua caliente|Hot water|Noun
+B2|23|546|おと|音|Sonido|Sound|Noun
+B2|23|547|こしょう|故障|Avería|Breakdown|Noun
+B2|23|548|みち|道|Camino, calle|Road, street|Noun
+B2|23|549|こうさてん|交差点|Intersección|Intersection|Noun
+B2|23|550|しんごう|信号|Semáforo|Signal|Noun
+B2|23|551|かど|角|Esquina|Corner|Noun
+B2|23|552|はし|橋|Puente|Bridge|Noun
+B2|23|553|ちゅうしゃじょう|駐車場|Estacionamiento|Parking lot|Noun
+B2|23|554|たてもの|建物|Edificio|Building|Noun
+B2|23|555|なんかいも|何回も|Varias veces|Many times|Phrase
+B2|24|556|くれます|くれます|Dar|To give|Verb
+B2|24|557|なおします|直します|Reparar|To repair|Verb
+B2|24|558|つれていきます|連れていきます|Llevar (a alguien)|To take (someone)|Verb
+B2|24|559|つれてきます|連れてきます|Traer (a alguien)|To bring (someone)|Verb
+B2|24|560|ひとをおくります|人を送ります|Llevar a alguien, acompañar|To see off someone|Verb
+B2|24|561|しょうかいします|紹介します|Presentar|To introduce|Verb
+B2|24|562|あんないします|案内します|Guiar, indicar el camino|To guide|Verb
+B2|24|563|せつめいします|説明します|Explicar|To explain|Verb
+B2|24|564|じゅんび|準備|Preparación|Preparation|Noun
+B2|24|565|ひっこし|引っ越し|Mudanza|Moving|Noun
+B2|24|566|ぜんぶ|全部|Todo|All|Noun
+B2|24|567|じぶんで|自分で|Por mi cuenta|On my own|Phrase
+B2|24|568|ほかに|他に|Además, aparte|Besides|Adverb
+B2|25|569|かんがえます|考えます|Pensar|To think|Verb
+B2|25|570|つきます|着きます|Llegar|To arrive|Verb
+B2|25|571|としをとります|年を取ります|Envejecer|To get older|Verb
+B2|25|572|いなか|田舎|Zona rural, pueblo natal|Countryside, hometown|Noun
+B2|25|573|おく|億|Cien millones|One hundred million|Noun
+B2|25|574|もし・たら|もし・たら|Si…|If...|Phrase
+B2|25|575|てんきん|転勤|Traslado|Transfer (job-related)|Noun
+B2|25|576|ひま|暇|Tiempo libre|Free time|Noun
+B2|25|577|がんばります|頑張ります|Esforzarme|To do my best|Verb
+B3|26|578|みえます|見えます|Se ve|To be visible|Verb
+B3|26|579|さがします|探します|Buscar|To search|Verb
+B3|26|580|じかんにおくれます|時間に遅れます|Llegar tarde|To be late|Verb
+B3|26|581|じかんにまにあいます|時間に間に合います|Llegar a tiempo|To be on time|Verb
+B3|26|582|やります|やります|Hacer|To do|Verb
+B3|26|583|ひろいます|拾います|Recoger|To pick up|Verb
+B3|26|584|れんらくします|連絡します|Contactar|To contact|Verb
+B3|26|585|きぶんがいい|気分がいい|Sentirse bien|To feel good|Phrase
+B3|26|586|きぶんがわるい|きぶんがわるい|Sentirse mal|To feel bad|Phrase
+B3|26|587|うんどうかい|運動会|Competencia deportiva|Sports day|Noun
+B3|26|588|ぼんおどり|盆踊り|Baile de Bon|Bon dance|Noun
+B3|26|589|ばしょ|場所|Lugar|Place|Noun
+B3|26|590|さいふ|財布|Cartera, monedero|Wallet|Noun
+B3|26|591|ごみ|塵|Basura|Trash|Noun
+B3|26|592|こっかいぎじどう|国会議事堂|Edificio de la Dieta Nacional, parlamento|National Diet Building|Noun
+B3|26|593|へいじつ|平日|Días laborables|Weekdays|Noun
+B3|26|594|こんど|今度|La próxima vez|Next time|Noun
+B3|26|595|ずいぶん|ずいぶん|Bastante|Quite|Adverb
+B3|26|596|ちょくせつ|直接|Directamente|Directly|Adverb
+B3|26|597|いつでも|いつでも|En cualquier momento|Anytime|Adverb
+B3|26|598|どこでも|どこでも|En cualquier lugar|Anywhere|Adverb
+B3|26|599|だれでも|だれでも|Cualquiera|Anyone|Pronoun
+B3|26|600|なんでも|何でも|Cualquier cosa|Anything|Pronoun
+B3|26|601|にもつがかたづきます|荷物が片づきます|Los equipajes se recogen|Luggage is tidied up|Verb
+B3|26|602|もえるごみ|燃えるゴミ|Basura que se quema|Burnable trash|Noun
+B3|26|603|おきば|置き場|Lugar de colocación, depósito|Place for storage|Noun
+B3|26|604|よこ|横|Al lado|Next to|Noun
+B3|26|605|びん|瓶|Botella|Bottle|Noun
+B3|26|606|かん|缶|Lata|Can|Noun
+B3|26|607|うちゅう|宇宙|Espacio|Space|Noun
+B3|26|608|うちゅうせん|宇宙船|Nave espacial|Spaceship|Noun
+B3|26|609|こわい|怖い|Da miedo|Scary|Adjective
+B3|26|610|ちがいます|違います|Ser diferente|To differ|Verb
+B3|26|611|うちゅうひこうし|宇宙飛行士|Astronauta|Astronaut|Noun
+B3|27|612|いぬをかいます|犬を飼います|Tener un perro|To keep a dog|Verb
+B3|27|613|はしります|走ります|Correr|To run|Verb
+B3|27|614|みえます|見えます|Se puede ver|Can be seen|Verb
+B3|27|615|きこえます|聞こえます|Se puede escuchar|Can be heard|Verb
+B3|27|616|たてものができます|建物をできます|Se construirá un edificio|A building can be built|Verb
+B3|27|617|きょうしつをひらきます|教室を開きます|Abrir una clase|To open a classroom|Verb
+B3|27|618|しんぱいな|心配な|Preocupado|Worried|Adjective
+B3|27|619|とり|鳥|Pájaro|Bird|Noun
+B3|27|620|こえ|声|Voz|Voice|Noun
+B3|27|621|なみ|波|Ola|Wave|Noun
+B3|27|622|どうぐ|道具|Herramienta|Tool|Noun
+B3|27|623|いえ|家|Casa|House|Noun
+B3|27|624|かた|方|Persona (forma respetuosa de hito)|Person (respectful form)|Noun
+B3|27|625|…しか|…しか|…solo|... only|Phrase
+B3|27|626|ほかの|ほかの|Otro|Other|Adjective
+B3|27|627|はっきり|はっきり|Claramente|Clearly|Adverb
+B3|27|628|かぐ|家具|Muebles|Furniture|Noun
+B3|27|629|ほんだな|本棚|Estantería|Bookshelf|Noun
+B3|27|630|いつか|いつか|Algún día|Someday|Adverb
+B3|27|631|たてます|建てます|Construir|To build|Verb
+B3|27|632|だいすき|大好き|Me encanta|I love|Adjective
+B3|27|633|しゅじんこう|主人公|Protagonista|Protagonist|Noun
+B3|27|634|かたち|形|Forma|Shape|Noun
+B3|27|635|ふしぎ|不思議|Misterioso|Mysterious|Adjective
+B3|27|636|たとえば|例えば|Por ejemplo|For example|Adverb
+B3|27|637|つけます|付けます|Poner|To attach|Verb
+B3|27|638|じゆうに|自由に|Libremente|Freely|Adverb
+B3|27|639|とびます|飛びます|Volar|To fly|Verb
+B3|27|640|むかし|昔|Antiguamente|In the past|Adverb
+B3|27|641|じぶん|自分|Yo mismo|Myself|Pronoun
+B3|27|642|しょうらい|将来|Futuro|Future|Noun
+B3|28|643|うれます|売れます|Se vende|To sell|Verb
+B3|28|644|おどります|踊ります|Bailar|To dance|Verb
+B3|28|645|かみます|噛みます|Morder|To bite|Verb
+B3|28|646|えらびます|選びます|Elegir|To choose|Verb
+B3|28|647|だいがくにかよいます|大学に通います|Asistir a la universidad|To attend university|Verb
+B3|28|648|まじめ|真面目|Serio|Serious|Adjective
+B3|28|649|ねっしん|熱心|Entusiasta|Enthusiastic|Adjective
+B3|28|650|えらい|偉い|Admirable|Great|Adjective
+B3|28|651|ちょうどいい|ちょうどいい|Justo|Just right|Phrase
+B3|28|652|けしき|景色|Paisaje|Scenery|Noun
+B3|28|653|びよういん|美容院|Salón de belleza|Beauty salon|Noun
+B3|28|654|だいどころ|台所|Cocina|Kitchen|Noun
+B3|28|655|けいけん|経験|Experiencia|Experience|Noun
+B3|28|656|ちから|力|Fuerza|Power|Noun
+B3|28|657|にんき|人気|Popularidad|Popularity|Noun
+B3|28|658|かたち|形|Forma|Shape|Noun
+B3|28|659|あじ|味|Sabor|Taste|Noun
+B3|28|660|しなもの|品物|Producto|Goods|Noun
+B3|28|661|ねだん|値段|Precio|Price|Noun
+B3|28|662|きゅうりょう|給料|Sueldo|Salary|Noun
+B3|28|663|ばんぐみ|番組|Programa|Program|Noun
+B3|28|664|かしゅ|歌手|Cantante|Singer|Noun
+B3|28|665|しょうせつ|小説|Novela|Novel|Noun
+B3|28|666|むすこ|息子|Hijo|Son|Noun
+B3|28|667|むすめ|娘|Hija|Daughter|Noun
+B3|28|668|しばらく|しばらく|Un rato|For a while|Adverb
+B3|28|669|たいてい|たいてい|Generalmente|Generally|Adverb
+B3|28|670|それに|それに|Además|In addition|Conjunction
+B3|28|671|それで|それで|Entonces|So then|Conjunction
+B3|28|672|じつは|実は|De hecho|Actually|Adverb
+B3|28|673|かいわ|会話|Conversación|Conversation|Noun
+B3|28|674|おしらせ|お知らせ|Anuncio|Notification|Noun
+B3|28|675|さんかします|参加します|Participar|To participate|Verb
+B3|28|676|ひにち|日にち|Fecha|Date|Noun
+B3|28|677|たいいくかん|体育館|Gimnasio|Gymnasium|Noun
+B3|28|678|むりょう|無料|Gratis|Free|Adjective
+B3|28|679|さそいます|誘います|Invitar|To invite|Verb
+B3|29|680|あけます|開けます|Abrir|To open|Verb
+B3|29|681|しまります|閉まります|Cerrar|To close|Verb
+B3|29|682|でんきがつきます|電気がつきます|La luz se enciende|The light turns on|Verb
+B3|29|683|でんきがきえます|電気が消えます|La luz se apaga|The light goes out|Verb
+B3|29|684|こわれます|壊れます|Romperse|To break|Verb
+B3|29|685|こっぷがわれます|コップが割れます|El vaso se rompe|The cup breaks|Verb
+B3|29|686|きがおれます|木が折れます|El árbol se quiebra|The tree breaks|Verb
+B3|29|687|かみがやぶれます|紙が破れます|El papel se rasga|The paper tears|Verb
+B3|29|688|よごれます|汚れます|Ensuciarse|To get dirty|Verb
+B3|29|689|ぽけっとがつきます|ポケットがつきます|Tener un bolsillo|To have a pocket|Verb
+B3|29|690|ぼたんがとまります|ボタンが止まります|El botón se detiene|The button stops|Verb
+B3|29|691|まちがえます|間違えます|Equivocarse|To make a mistake|Verb
+B3|29|692|おとします|落とします|Dejar caer, perder|To drop, lose|Verb
+B3|29|693|かぎがかかります|かぎが掛かります|La llave se cierra|The key locks|Verb
+B3|29|694|ふきます|ふきます|Limpiar|To wipe|Verb
+B3|29|695|とりかえます|取り替えます|Reemplazar|To replace|Verb
+B3|29|696|かたづけます|片づけます|Ordenar|To tidy up|Verb
+B3|29|697|おさら|お皿|Plato|Plate|Noun
+B3|29|698|ふくろ|袋|Bolsa|Bag|Noun
+B3|29|699|しょるい|書類|Documento|Document|Noun
+B3|29|700|えだ|枝|Rama|Branch|Noun
+B3|29|701|えきいん|駅員|Empleado de estación|Station attendant|Noun
+B3|29|702|こうばん|交番|Oficina de policía|Police box|Noun
+B3|29|703|へんじ|返事|Respuesta|Response|Noun
+B3|29|704|いまのでんしゃ|今の電車|El tren que acaba de salir|The train that just left|Noun
+B3|29|705|わすれもの|忘れ物|Objeto perdido|Lost item|Noun
+B3|29|706|そとがわ|外側|Exterior|Outside|Noun
+B3|29|707|おぼえていません|覚えていません|No lo recuerdo|I don’t remember|Phrase
+B3|29|708|あみだな|網棚|Portaequipajes|Luggage rack|Noun
+B3|29|709|たしか|確か|Seguro|Sure|Adjective
+B3|29|710|じしん|地震|Terremoto|Earthquake|Noun
+B3|29|711|かべ|壁|Pared|Wall|Noun
+B3|29|712|はり|針|Aguja, manecilla del reloj|Needle, hand of a clock|Noun
+B3|29|713|さします|指します|Apuntar, indicar|To point|Verb
+B3|29|714|えきまえ|駅前|Frente a la estación|In front of the station|Noun
+B3|29|715|たおれます|倒れます|Caerse|To fall|Verb
+B3|29|716|にし|西|Oeste|West|Noun
+B3|29|717|もえます|燃えます|Quemarse|To burn|Verb
+B3|30|718|はります|張ります|Pegar|To stick|Verb
+B3|30|719|かけます|掛けます|Colgar|To hang|Verb
+B3|30|720|かざります|飾ります|Decorar|To decorate|Verb
+B3|30|721|ならべます|並べます|Alinear, colocar|To line up|Verb
+B3|30|722|うえます|植えます|Plantar|To plant|Verb
+B3|30|723|そのままにします|そのままにします|Dejar como está|To leave as it is|Phrase
+B3|30|724|もどします|戻します|Devolver|To return|Verb
+B3|30|725|まとめます|纏めます|Resumir|To summarize|Verb
+B3|30|726|しまいます|しまいます|Guardar|To put away|Verb
+B3|30|727|きめます|決めます|Decidir|To decide|Verb
+B3|30|728|よしゅうします|予習します|Preparar la lección|To prepare a lesson|Verb
+B3|30|729|ふくしゅうします|復習します|Repasar la lección|To review a lesson|Verb
+B3|30|730|じゅぎょう|授業|Dar clase|Class|Noun
+B3|30|731|こうぎ|講義|Dar una lección|Lecture|Noun
+B3|30|732|よてい|予定|Planear|Schedule|Noun
+B3|30|733|よていひょう|予定表|Organizar el horario|Schedule chart|Noun
+B3|30|734|ごみばこ|ごみ箱|Papelera|Trash can|Noun
+B3|30|735|にんぎょう|人形|Muñeca|Doll|Noun
+B3|30|736|かびん|花瓶|Jarrón|Vase|Noun
+B3|30|737|かがみ|鏡|Espejo|Mirror|Noun
+B3|30|738|ひきだし|引き出し|Cajón|Drawer|Noun
+B3|30|739|げんかん|玄関|Entrar|Entrance|Noun
+B3|30|740|ろうか|廊下|Pasillo|Hallway|Noun
+B3|30|741|かべ|壁|Pared|Wall|Noun
+B3|30|742|いけ|池|Estanque|Pond|Noun
+B3|30|743|もとのところ|元の所|Lugar original|Original place|Noun
+B3|30|744|まわり|周り|Alrededor|Around|Noun
+B3|30|745|まんなか|真ん中|Centro|Center|Noun
+B3|30|746|すみ|隅|Rincón|Corner|Noun
+B3|30|747|りゅっく|リュック|Mochila|Backpack|Noun
+B3|30|748|ひじょうぶくろ|非常袋|Bolsa de emergencia|Emergency bag|Noun
+B3|30|749|ひじょうじ|非常時|Caso de emergencia|Emergency situation|Noun
+B3|30|750|せいかつします|生活します|Vivir|To live|Verb
+B3|30|751|かいちゅうでんとう|懐中電灯|Linterna|Flashlight|Noun
+B3|30|752|まるい|丸い|Redondo|Round|Adjective
+B3|30|753|ゆめをみます|夢を見ます|Soñar|To dream|Verb
+B3|30|754|いやな|嫌な|Desagradable|Unpleasant|Adjective
+B3|30|755|すると|すると|Entonces|Then|Conjunction
+B3|30|756|めがさめます|目が覚めます|Despertarse|To wake up|Verb
+B3|31|757|つづけます|続けます|Continuar|To continue|Verb
+B3|31|758|みつけます|見つけます|Encontrar|To find|Verb
+B3|31|759|やすみをとります|休みを取ります|Tomar un descanso|To take a break|Verb
+B3|31|760|しけんをうけます|試験を受けます|Hacer un examen|To take an exam|Verb
+B3|31|761|もうしこみます|申し込みます|Inscribirse|To apply|Verb
+B3|31|762|きゅうけいします|休憩します|Descansar|To take a break|Verb
+B3|31|763|れんきゅう|連休|Puente festivo|Consecutive holidays|Noun
+B3|31|764|さくぶん|作文|Redacción|Composition|Noun
+B3|31|765|はっぴょう|発表|Presentación|Presentation|Noun
+B3|31|766|てんらんかい|展覧会|Exposición|Exhibition|Noun
+B3|31|767|けっこんしき|結婚式|Boda|Wedding|Noun
+B3|31|768|おそうしき|お葬式|Funeral|Funeral|Noun
+B3|31|769|しき|式|Ceremonia|Ceremony|Noun
+B3|31|770|ほんしゃ|本社|Oficina principal|Head office|Noun
+B3|31|771|してん|支店|Sucursal|Branch|Noun
+B3|31|772|きょうかい|教会|Iglesia|Church|Noun
+B3|31|773|だいがくいん|大学院|Posgrado|Graduate school|Noun
+B3|31|774|どうぶつえん|動物園|Zoológico|Zoo|Noun
+B3|31|775|おこさん|お子さん|Su hijo|Your child|Noun
+B3|31|776|ずっと|ずっと|Todo el tiempo|All the time|Adverb
+B3|31|777|のこります|残ります|Quedarse|To remain|Verb
+B3|31|778|にゅうがくしけん|入学試験|Examen de admisión|Entrance exam|Noun
+B3|31|779|つきに|月に|Al mes|Per month|Phrase
+B3|31|780|むら|村|Pueblo|Village|Noun
+B3|31|781|そつぎょうします|卒業します|Graduarse|To graduate|Verb
+B3|31|782|えいがかん|映画館|Cine|Cinema|Noun
+B3|31|783|とじます|閉じます|Cerrar|To close|Verb
+B3|31|784|じゆうに|自由に|Libremente|Freely|Adverb
+B3|32|785|うんどうします|運動します|Hacer ejercicio|To exercise|Verb
+B3|32|786|せいこうします|成功します|Tener éxito|To succeed|Verb
+B3|32|787|しけんにしっぱいします|試験に失敗します|Fallar en el examen|To fail the exam|Verb
+B3|32|788|しけんにごうかくします|試験に合格します|Aprobar el examen|To pass the exam|Verb
+B3|32|789|あめがやみます|雨がやみます|Parar de llover|To stop raining|Verb
+B3|32|790|はれます|晴れます|Despejarse|To clear up|Verb
+B3|32|791|くもります|曇ります|Nublarse|To become cloudy|Verb
+B3|32|792|ねつがつづきます|熱が続きます|La fiebre continuar|The fever continues|Verb
+B3|32|793|かぜをひきます|風邪をひきます|Resfriarse|To catch a cold|Verb
+B3|32|794|ひやします|冷やします|Enfriar|To cool|Verb
+B3|32|795|みちがこみます|道が込みます|Hay mucho tráfico|The road is crowded|Verb
+B3|32|796|みちがすきます|道がすきます|Hay poco tráfico|The road is clear|Verb
+B3|32|797|むりをします|無理をします|Excederse|To overdo it|Verb
+B3|32|798|じゅうぶんな|十分な|Suficiente|Sufficient|Adjective
+B3|32|799|おかしい|おかしい|Extraño|Strange|Adjective
+B3|32|800|やけど|火傷|Quemadura|Burn|Noun
+B3|32|801|けが|怪我|Herida|Injury|Noun
+B3|32|802|せき|咳|Tos|Cough|Noun
+B3|32|803|たいよう|太陽|Sol|Sun|Noun
+B3|32|804|こくさい|国際|Internacional|International|Noun
+B3|32|805|すいどう|水道|Agua corriente|Water supply|Noun
+B3|32|806|ゆうがた|夕方|Tarde, anochecer|Evening|Noun
+B3|32|807|おそく|遅く|Tarde|Late|Adverb
+B3|32|808|い|胃|Estómago|Stomach|Noun
+B3|32|809|ほしうらない|星占い|Horóscopo|Horoscope|Noun
+B3|32|810|はたらきすぎ|働きすぎ|Trabajar demasiado|Work too much|Verb Phrase
+B3|32|811|こまります|困ります|Estar en apuros, tener problemas|To be in trouble|Verb
+B3|32|812|たからくじ|宝くじ|Lotería|Lottery|Noun
+B3|32|813|たからくじがあたります|宝くじが当たります|Ganar la lotería|To win the lottery|Verb Phrase
+B3|32|814|けんこう|健康|Salud|Health|Noun
+B3|32|815|れんあい|恋愛|Relación amorosa|Love relationship|Noun
+B3|32|816|こいびと|恋人|Pareja|Lover|Noun
+B3|32|817|いし|石|Piedra|Stone|Noun
+B3|33|818|にげます|逃げます|Huir|To escape|Verb
+B3|33|819|さわぎます|騒ぎます|Hacer ruido|To make noise|Verb
+B3|33|820|あからめます|赤らめます|Sonrojarse, desistir|To blush, to give up|Verb
+B3|33|821|なげます|投げます|Lanzar|To throw|Verb
+B3|33|822|きそくをまもります|規則を守ります|Cumplir las reglas|To follow the rules|Verb Phrase
+B3|33|823|しきがはじまります|式が始まります|Comenzar la ceremonia|The ceremony begins|Verb Phrase
+B3|33|824|かいぎにしゅっせきします|会議に出席します|Asistir a la reunión|To attend the meeting|Verb Phrase
+B3|33|825|つたえます|伝えます|Comunicar, transmitir|To convey|Verb
+B3|33|826|くるまにちゅういします|車に注意します|Tener cuidado con los coches|To be careful of cars|Verb Phrase
+B3|33|827|せきをはずします|席を外します|Encontrarse fuera de la oficina|To step out of the office|Verb Phrase
+B3|33|828|もどります|戻ります|Volver|To return|Verb
+B3|33|829|でんわがあります|電話があります|Haber una llamada|There is a call|Verb Phrase
+B3|33|830|だめ|駄目|No permitido|Not allowed|Adjective
+B3|33|831|おなじ|同じ|Igual|Same|Adjective
+B3|33|832|けいさつ|警察|Policía|Police|Noun
+B3|33|833|せき|席|Asiento|Seat|Noun
+B3|33|834|しめきり|締切|Fecha límite|Deadline|Noun
+B3|33|835|きそく|規則|Regla|Rule|Noun
+B3|33|836|きけん|危険|Peligro|Danger|Noun
+B3|33|837|しようきんし|使用禁止|Uso prohibido|No entry|Noun
+B3|33|838|たちいりきんし|立入禁止|Entrada prohibida|No trespassing|Noun
+B3|33|839|じょこう|徐行|Reducir la velocidad|To slow down|Noun
+B3|33|840|いりぐち|入口|Entrada|Entrance|Noun
+B3|33|841|でぐち|出口|Salida|Exit|Noun
+B3|33|842|ひじょうぐち|非常口|Salida de emergencia|Emergency exit|Noun
+B3|33|843|わりびき|割引|Descuento|Discount|Noun
+B3|33|844|のみほうだい|飲み放題|Barra libre|All you can drink|Noun
+B3|33|845|しようちゅう|使用中|En uso|In use|Noun
+B3|33|846|ぼしゅうちゅう|募集中|Se busca|Now recruiting|Noun
+B3|33|847|ちゅうしゃいはん|駐車違反|Infracción de estacionamiento|Parking violation|Noun
+B3|33|848|ばっきん|罰金|Multa|Fine|Noun
+B3|33|849|じしん|地震|Terremoto|Earthquake|Noun
+B3|33|850|おきます|起きます|Suceder|To occur|Verb
+B3|33|851|たすけあいます|助け合います|Ayudarse|To help each other|Verb
+B3|33|852|もともと|元々|Originalmente|Originally|Adverb
+B3|33|853|かなしい|悲しい|Triste|Sad|Adjective
+B3|33|854|もっと|もっと|Más|More|Adverb
+B3|33|855|あいさつをします|あいさつをします|Saludar|To greet|Verb Phrase
+B3|33|856|あいて|相手|Pareja|Partner|Noun
+B3|33|857|きもち|気持ち|Sentimiento|Feeling|Noun
+B3|34|858|はをみがきます|歯を磨きます|Cepillarse los dientes|To brush teeth|Verb Phrase
+B3|34|859|くみたてます|組み立てます|Ensamblar|To assemble|Verb
+B3|34|860|おります|折ります|Doblar|To fold|Verb
+B3|34|861|わすれものにきがつきます|忘れ物に気がつきます|Darse cuenta de que se ha olvidado algo|To realize a forgotten item|Verb Phrase
+B3|34|862|しょうゆをつけます|しょうゆをつけます|Mojar en salsa de soja|To dip in soy sauce|Verb Phrase
+B3|34|863|かぎがみつかります|鍵が見つかります|Encontrar la llave|To find the key|Verb Phrase
+B3|34|864|しつもんします|質問します|Preguntar|To ask a question|Verb
+B3|34|865|かさをさします|傘をさします|Abrir/usar el paraguas|To open/use an umbrella|Verb Phrase
+B3|34|866|おしろ|お城|Castillo|Castle|Noun
+B3|34|867|せつめいしょ|説明書|Manual de instrucciones|Instruction manual|Noun
+B3|34|868|ず|図|Plano, gráfico|Diagram|Noun
+B3|34|869|せん|線|Línea|Line|Noun
+B3|34|870|やじるし|矢印|Flecha|Arrow|Noun
+B3|34|871|こん|紺|Azul marino|Navy blue|Noun
+B3|34|872|しょうゆ|醤油|Salsa de soja|Soy sauce|Noun
+B3|34|873|さどう|茶道|Ceremonia del té|Tea ceremony|Noun
+B3|34|874|おちゃをたてます|お茶をたてます|Preparar té en ceremonia del té|To prepare tea|Verb Phrase
+B3|34|875|さきに|先に|Primero (cuando se hace una cosa antes que otra)|First|Adverb
+B3|34|876|のせます|載せます|Colocar, poner|To place|Verb
+B3|34|877|にがい|苦い|Amargo|Bitter|Adjective
+B3|34|878|ざいりょう|材料|Ingredientes|Ingredients|Noun
+B3|34|879|たまねぎ|ためねぎ|Cebolla|Onion|Noun
+B3|34|880|よんぶんのいち|四分の1|Un cuarto|A quarter|Noun Phrase
+B3|34|881|ちょうみりょう|調味料|Condimentos|Seasonings|Noun
+B3|34|882|てきとうな|適当な|Adecuado|Appropriate|Adjective
+B3|34|883|なべ|鍋|Olla|Pot|Noun
+B3|34|884|ひにかけます|火にかけます|Poner al fuego|To put on fire|Verb Phrase
+B3|34|885|にます|煮ます|Cocer, guisar|To boil|Verb
+B3|34|886|にえます|煮えます|Cocerse, guisarse|To be boiled|Verb
+B3|34|887|どんぶり|丼|Cuenco|Bowl|Noun
+B3|34|888|たちます|経ます|Pasar|To pass|Verb
+B3|35|889|はながさきます|花が咲きます|Florecer|Flowers bloom|Verb Phrase
+B3|35|890|いろがかわります|色が変わります|Cambiar de color|Color changes|Verb Phrase
+B3|35|891|こまります|困ります|Estar en problemas|To be in trouble|Verb
+B3|35|892|まるをつけます|丸を付けます|Marcar un círculo|To mark a circle|Verb Phrase
+B3|35|893|びょうきがなおります|病気が治ります|Curarse de una enfermedad|To recover from an illness|Verb Phrase
+B3|35|894|こしょうがなおります|故障が直ります|Arreglar una avería|To fix a breakdown|Verb Phrase
+B3|35|895|にゅうりょくします|入力します|Introducir|To input|Verb
+B3|35|896|ただしい|正しい|Correcto|Correct|Adjective
+B3|35|897|むこう|向こう|Allí|Over there|Noun
+B3|35|898|しま|島|Isla|Island|Noun
+B3|35|899|みなと|港|Puerto|Port|Noun
+B3|35|900|きんじょ|近所|Vecindario|Neighborhood|Noun
+B3|35|901|おくじょう|屋上|Azotea|Rooftop|Noun
+B3|35|902|かいがい|海外|En el extranjero|Abroad|Noun
+B3|35|903|やまのぼり|山登り|Alpinismo|Mountain climbing|Noun
+B3|35|904|れきし|歴史|Historia|History|Noun
+B3|35|905|きかい|機会|Oportunidad, ocasión|Opportunity|Noun
+B3|35|906|きょか|許可|Permiso|Permission|Noun
+B3|35|907|ひも|紐|Cordón|Cord|Noun
+B3|35|908|すいはんき|炊飯器|Olla arrocera|Rice cooker|Noun
+B3|35|909|は|葉|Hoja|Leaf|Noun
+B3|35|910|それなら|それなら|En ese caso|In that case|Phrase
+B3|35|911|やこうバス|夜行バス|Autobús nocturno|Night bus|Noun
+B3|35|912|りょこうしゃ|旅行社|Agencia de viajes|Travel agency|Noun
+B3|35|913|くわしい|詳しい|Detallado|Detailed|Adjective
+B3|35|914|しゅ|朱|Rojo bermellón|Vermilion|Noun
+B3|35|915|まじわります|交わります|Relacionarse|To interact|Verb
+B3|35|916|ことわざ|諺|Proverbio, refrán|Proverb|Noun
+B3|35|917|かんけい|関係|Relación|Relationship|Noun
+B3|35|918|なかよくします|仲よくします|Llevarse bien con|To get along with|Verb Phrase
+B3|35|919|ひつような|必要な|Necesario, esencial|Necessary|Adjective
+B3|36|920|じこにあいます|事故にあいます|Tener un accidente|To have an accident|Verb Phrase
+B3|36|921|ちょきんします|貯金します|Ahorrar dinero|To save money|Verb
+B3|36|922|しちじをすぎます|7時を過ぎます|Pasar de las siete|To pass seven o'clock|Verb Phrase
+B3|36|923|しごとになれます|仕事に慣れます|Acostumbrarse al trabajo|To get used to work|Verb Phrase
+B3|36|924|たべものがくさります|食べ物が腐ります|Descomponerse la comida|Food spoils|Verb Phrase
+B3|36|925|けんどう|剣道|Kendo|Kendo|Noun
+B3|36|926|じゅうどう|柔道|Judo|Judo|Noun
+B3|36|927|うちゅう|宇宙|Espacio exterior, universo|Outer space, universe|Noun
+B3|36|928|きょく|曲|Canción|Song|Noun
+B3|36|929|まいしゅう|毎週|Cada semana|Every week|Noun
+B3|36|930|まいつき|毎月|Cada mes|Every month|Noun
+B3|36|931|かなら|かなら|Bastante|Surely|Adverb
+B3|36|932|やっと|やっと|Por fin|Finally|Adverb
+B3|36|933|かなり|かなり|Bastante|Quite|Adverb
+B3|36|934|かならず|必ず|Sin falta|By all means|Adverb
+B3|36|935|ぜったいに...ない|絶対に...ない|No, de ninguna manera|Absolutely not|Phrase
+B3|36|936|じょうずに|上手に|Habilidosamente|Skillfully|Adverb
+B3|36|937|できるだけ|できるだけ|Tanto como sea posible|As much as possible|Phrase
+B3|36|938|ほとんど|ほとんど|Casi|Almost|Adverb
+B3|36|939|おきゃくさま|お客様|Cliente|Customer|Noun
+B3|36|940|とくべつ［な］|特別［な］|Especial|Special|Adjective
+B3|36|941|すいえい|水泳|Natación|Swimming|Noun
+B3|36|942|ちがいます|違います|Ser diferente|To be different|Verb
+B3|36|943|きもち|気持ち|Sentimiento|Feeling|Noun
+B3|36|944|のりもの|乗り物|Vehículo|Vehicle|Noun
+B3|36|945|〜せいき|〜世紀|Siglo|~ century|Noun
+B3|36|946|とおく|遠く|Lugar lejano|Distant place|Noun
+B3|36|947|めずらしい|珍しい|Raro|Rare|Adjective
+B3|36|948|きしゃ|汽車|Tren de vapor|Steam train|Noun
+B3|36|949|きせん|汽船|Barco de vapor|Steamship|Noun
+B3|36|950|おおぜいの〜|大勢の〜|Multitud de personas|Crowd of ~|Noun Phrase
+B3|36|951|はこびます|運びます|Transportar|To carry|Verb
+B3|36|952|りようします|利用します|Usar|To utilize|Verb
+B3|36|953|じゆうに|自由に|Libremente|Freely|Adverb
+B3|37|954|ほめます|褒めます|Elogiar|To praise|Verb
+B3|37|955|しかります|叱ります|Regañar|To scold|Verb
+B3|37|956|とります|取ります|Quitar|To take|Verb
+B3|37|957|さそいます|誘います|Invitar a alguien a hacer algo|To invite|Verb
+B3|37|958|しょうたいします|招待します|Invitar formalmente|To invite formally|Verb
+B3|37|959|たのみます|頼みます|Pedir, solicitar|To request|Verb
+B3|37|960|ちゅういします|注意します|Advertir, avisar|To warn|Verb
+B3|37|961|ふみます|踏みます|Pisar|To step|Verb
+B3|37|962|こわします|壊します|Destruir, demoler, romper|To destroy|Verb
+B3|37|963|よごします|汚します|Ensuciar|To dirty|Verb
+B3|37|964|おこないます|行います|Llevar a cabo|To carry out|Verb
+B3|37|965|ゆしゅつします|輸出します|Exportar|To export|Verb
+B3|37|966|ゆにゅうします|輸入します|Importar|To import|Verb
+B3|37|967|ほんやくします|翻訳します|Traducir|To translate|Verb
+B3|37|968|はつめいします|発明します|Inventar|To invent|Verb
+B3|37|969|はっけんします|発見します|Descubrir|To discover|Verb
+B3|37|970|こめ|米|Arroz|Rice|Noun
+B3|37|971|むぎ|麦|Trigo, cebada|Barley|Noun
+B3|37|972|せきゆ|石油|Petróleo|Petroleum|Noun
+B3|37|973|げんりょう|原料|Materia prima|Raw material|Noun
+B3|37|974|どろぼう|泥棒|Ladrón|Thief|Noun
+B3|37|975|けいかん|警官|Policía|Police officer|Noun
+B3|37|976|せかいじゅう|世界中|Por todo el mundo|Worldwide|Noun
+B3|37|977|〜じゅう|〜中|~ por todo|~ throughout|Noun
+B3|37|978|〜せいき|〜世紀|~ siglo|~ century|Noun
+B3|37|979|なにご|何語|Qué idioma|What language|Noun
+B3|37|980|だれか|だれか|Alguien|Someone|Pronoun
+B3|37|981|だいぶつ|大仏|Gran Buda|Great Buddha|Noun
+B3|37|982|えどじだい|江戸時代|Era Edo|Edo Period|Noun
+B3|37|983|みなさま|皆様|Todos ustedes|Everyone|Noun
+B3|37|984|うちがやけます|うちが焼けます|La casa se quema|The house burns|Verb Phrase
+B3|37|985|そのご|その後|Después de eso, posteriormente|After that|Phrase
+B3|37|986|せかいいさん|世界遺產|Patrimonio de la Humanidad|World Heritage|Noun
+B3|37|987|〜のひとつ|~の一つ|Uno de ~|One of ~|Phrase
+B3|37|988|きんいろ|金色|Color dorado|Golden color|Noun
+B3|37|989|ほんもの|本物|Auténtico|Genuine|Noun
+B3|37|990|きん|金|Oro|Gold|Noun
+B3|37|991|うつくしい|美しい|Hermoso|Beautiful|Adjective
+B3|37|992|ごうかな|豪華な|Magnífico, maravilloso, espléndido|Magnificent|Adjective
+B3|37|993|ちょうこく|彫刻|Escultura|Sculpture|Noun
+B3|37|994|いいつたえ|言い伝え|Leyenda|Legend|Noun
+B3|37|995|ねむります|眠ります|Dormir|To sleep|Verb
+B3|37|996|ほります|彫ります|Cincelar, grabar, esculpir|To carve|Verb
+B3|37|997|なかま|仲間|Compañero|Companion|Noun
+B3|37|998|しかし|しかし|Sin embargo|However|Conjunction
+B3|37|999|そのあと|そのあと|Después de eso|After that|Phrase
+B3|37|1000|いっしょうけんめい|一生懸命|Con todas sus fuerzas|With all one's might|Phrase
+B3|37|1001|ねずみ|鼠|Ratón|Mouse|Noun
