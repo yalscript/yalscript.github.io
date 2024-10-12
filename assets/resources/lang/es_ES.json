@@ -150,5 +150,11 @@
   "draw": "Dibuja",
   "game_mode": "Modo de juego",
   "write_the_kanji": "Escribe el kanji de",
-  "lesson": "Lección"
+  "lesson": "Lección",
+  "question_language": "Idioma preguntas",
+  "japanese_words": "Palabras japonesas",
+  "japanese": "Japonés",
+  "display_kanji_and_furigana": "Mostrar kanji y furigana",
+  "display_only_kanji": "Mostrar sólo kanji",
+  "display_only_furigana": "Mostrar sólo furigana"
 }

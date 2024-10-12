@@ -150,5 +150,11 @@
   "draw": "Draw",
   "game_mode": "Game mode",
   "write_the_kanji": "Write the kanji of",
-  "lesson": "Lesson"
+  "lesson": "Lesson",
+  "question_language": "Questions language",
+  "japanese_words": "Japanese words",
+  "japanese": "Japanese",
+  "display_kanji_and_furigana": "Display kanji and furigana",
+  "display_only_kanji": "Display only kanji",
+  "display_only_furigana": "Display only furigana"
 }
