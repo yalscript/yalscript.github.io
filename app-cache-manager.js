@@ -9,15 +9,23 @@ window.addEventListener('load', function () {
             var buildNumber = response.build_number;
             var currentBuildNumber = window.localStorage.getItem('buildNumber');
             console.log("retrieved build number...")
+
             if (currentBuildNumber && currentBuildNumber != buildNumber) {
+                console.log("Current build number != build number")
                 console.log("deleting cache...")
                 await caches.delete('flutter-app-manifest');
                 await caches.delete('flutter-temp-cache');
                 await caches.delete('flutter-app-cache');
                 console.log("cache deleted...")
+                console.log("Setting build number...")
                 window.localStorage.setItem('buildNumber', buildNumber);
                 console.log("build number set...")
                 location.reload(true);
+            } else {
+                console.log("No build number present")
+                console.log("Setting build number...")
+                window.localStorage.setItem('buildNumber', buildNumber);
+                console.log("Build number set...")
             }
         }
     };
