@@ -21,6 +21,12 @@
 </head>
 <body>
   <script src="flutter_bootstrap.js" async></script>
-  <script src="app-cache-manager.js"></script>
+  <script>
+    // Dynamically load app-cache-manager.js with cache-busting query string
+    var script = document.createElement('script');
+    script.src = 'app-cache-manager.js?v=' + new Date().getTime();
+    script.async = true;
+    document.body.appendChild(script);
+  </script>
 </body>
 </html>
