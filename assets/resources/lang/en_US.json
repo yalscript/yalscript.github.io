@@ -158,5 +158,7 @@
   "japanese": "Japanese",
   "display_kanji_and_furigana": "Display kanji and furigana",
   "display_only_kanji": "Display only kanji",
-  "display_only_furigana": "Display only furigana"
+  "display_only_furigana": "Display only furigana",
+  "favourite_stations": "Favourites",
+  "all_stations": "All stations"
 }
