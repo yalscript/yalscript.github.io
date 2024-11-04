@@ -1,5 +1,82 @@
 [
     {
+        "stationuuid": "60e28434-3aff-4225-9105-0d258f7e160e",
+        "name": "Japan Hits",
+        "url": "https://cast1.torontocast.com/JapanHits",
+        "url_resolved": "http://cast1.torontocast.com/JHits",
+        "favicon": "https://asiadreamradio.torontocast.stream/stations/en/images/en/japanhits.png",
+        "site_url": "https://asiadreamradio.com",
+        "tags": "All J-Pop",
+        "votes": 9000,
+        "active": true
+    },
+    {
+        "stationuuid": "657009eb-3674-4351-8ee4-9b77f05a14fb",
+        "name": "J-Pop Powerplay",
+        "url": "https://kathy.torontocast.com/powerplay",
+        "url_resolved": "http://kathy.torontocast.com:3560/stream",
+        "favicon": "https://asiadreamradio.torontocast.stream/stations/en/images/en/powerplayjpop16.png",
+        "site_url": "https://asiadreamradio.com",
+        "tags": "Boybands, Supergroups",
+        "votes": 9000,
+        "active": true
+    },
+    {
+        "stationuuid": "4336e398-fd65-4392-8487-4edbe8ed0b45",
+        "name": "J-Pop Powerplay Kawaii",
+        "url": "https://kathy.torontocast.com/kawaii",
+        "url_resolved": "http://kathy.torontocast.com:3060/stream",
+        "favicon": "https://asiadreamradio.torontocast.stream/stations/en/images/en/ppkawaii.png",
+        "site_url": "https://asiadreamradio.com",
+        "tags": "Kawaii girlbands",
+        "votes": 9000,
+        "active": true
+    },
+    {
+        "stationuuid": "ca0c950e-fcca-454b-a0dd-211de5fdb799",
+        "name": "J-Pop Sakura 懐かしい",
+        "url": "https://cast1.torontocast.com/jsakura",
+        "url_resolved": "http://cast1.torontocast.com/natsu",
+        "favicon": "https://asiadreamradio.torontocast.stream/stations/en/images/en/natsukashii.png",
+        "site_url": "https://asiadreamradio.com",
+        "tags": "Classic hits",
+        "votes": 9000,
+        "active": true
+    },
+    {
+        "stationuuid": "ea414d52-4f37-43f6-bd75-1ff196b90587",
+        "name": "J-Rock Powerplay",
+        "url": "https://kathy.torontocast.com/jrock",
+        "url_resolved": "http://kathy.torontocast.com:3340/stream",
+        "favicon": "https://asiadreamradio.torontocast.stream/stations/en/images/en/jrockpowerplay-1.png",
+        "site_url": "https://asiadreamradio.com",
+        "tags": "Rock",
+        "votes": 9000,
+        "active": true
+    },
+    {
+        "stationuuid": "54c2399b-c368-45ee-9c7b-b84d59766e9e",
+        "name": "J-Club Hip Hop",
+        "url": "https://kathy.torontocast.com/jclubhiphop",
+        "url_resolved": "http://kathy.torontocast.com:3350/stream",
+        "favicon": "https://asiadreamradio.torontocast.stream/stations/en/images/en/jclubhiphop.png",
+        "site_url": "https://asiadreamradio.com",
+        "tags": "Hip Hop",
+        "votes": 9000,
+        "active": true
+    },
+    {
+        "stationuuid": "1de0d004-13d6-4a03-979a-f30964b2a1b8",
+        "name": "Jazz Sakura",
+        "url": "https://kathy.torontocast.com/jazzsakura",
+        "url_resolved": "http://kathy.torontocast.com:3330/stream",
+        "favicon": "https://asiadreamradio.torontocast.stream/stations/en/images/en/JazzSakuraLogo512jp.png",
+        "site_url": "https://asiadreamradio.com",
+        "tags": "Jazz",
+        "votes": 9000,
+        "active": true
+    },
+    {
         "stationuuid": "1adf1539-e647-44c3-85d8-b437b768fb8c",
         "name": "BOX: Anime Para Ti",
         "url": "https://stream.zeno.fm/qpn8mkt8c4duv",
@@ -7,7 +84,7 @@
         "favicon": "https://images.zeno.fm/TrBD3tEtOJbMAdKu3XR64pWUT2XTjBhzgn2n2w_lFnE/rs:fit:500:500/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNBeF92bDF3b01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNBZ0lEeWlBb01vZ0VFZW1WdWJ3L2ltYWdlLz9yZXNpemU9NTAweDUwMCZ1cGRhdGVkPTE2NjI3NzM0MjEwMDA.webp",
         "tags": "anime,anime openings,jpop,music",
         "votes": 2063,
-        "active": true
+        "active": false
     },
     {
         "stationuuid": "41749c63-de6e-4fd4-82b3-c1334b8715ed",
@@ -17,7 +94,7 @@
         "favicon": "https://thumbnailer.mixcloud.com/unsafe/1200x628/profile/6/6/d/f/3852-8d32-4b4d-a524-bfb3a2a72185",
         "tags": "70s,80s,90s,citypop,jpop",
         "votes": 727,
-        "active": true
+        "active": false
     },
     {
         "stationuuid": "5e42f3f1-41cd-4c71-a06c-7d88b76bdc17",
@@ -37,7 +114,7 @@
         "favicon": "https://cdn-profiles.tunein.com/s269846/images/logog.jpg?t=1680469955000",
         "tags": "japanese,japanese music,jazz",
         "votes": 4803,
-        "active": true
+        "active": false
     },
     {
         "stationuuid": "840162e0-6493-4fcb-bca5-4d93b33d1c3e",
@@ -67,7 +144,7 @@
         "favicon": "http://r-a-d.io/favicon.ico",
         "tags": "anime,jpop",
         "votes": 1392,
-        "active": true
+        "active": false
     },
     {
         "stationuuid": "71d6a4b7-d7a6-46fe-972f-8366ee29e268",
@@ -77,7 +154,7 @@
         "favicon": "https://cdn-profiles.tunein.com/s280096/images/logog.jpg?t=636396",
         "tags": "classic,j-pop,japanese,pop",
         "votes": 459,
-        "active": true
+        "active": false
     },
     {
         "stationuuid": "ee614813-177f-4b83-ae6a-5e5b22d440d1",
@@ -87,7 +164,7 @@
         "favicon": "https://static.wixstatic.com/media/da9e0b_7c54de8c1f934d67bdab3cec46be5c3e~mv2.png/v1/fill/w_1070,h_1080,al_c/da9e0b_7c54de8c1f934d67bdab3cec46be5c3e~mv2.png",
         "tags": "bossa nova,jazz,piano jazz",
         "votes": 28,
-        "active": true
+        "active": false
     },
     {
         "stationuuid": "9f66a5b4-66c0-4389-88f3-f8285ad4239a",
@@ -97,7 +174,7 @@
         "favicon": "https://www.beachfm.co.jp/favicon.ico",
         "tags": "classic jazz,hawaiian music,pop,smooth jazz",
         "votes": 1010,
-        "active": true
+        "active": false
     },
     {
         "stationuuid": "37d1f4fb-0812-432d-af30-e91ca28ae05c",
@@ -107,7 +184,7 @@
         "favicon": "https://bigbradio.net/sites/default/files/favicon.ico",
         "tags": "music,pop",
         "votes": 423,
-        "active": true
+        "active": false
     },
     {
         "stationuuid": "04370544-ad24-4200-9fb0-e4329808c7cf",
@@ -117,7 +194,7 @@
         "favicon": "https://asiadreamradio.torontocast.stream/stations/images/newstream/japanhits@2x.png",
         "tags": "",
         "votes": 158,
-        "active": true
+        "active": false
     },
     {
         "stationuuid": "3ab8903d-117f-4f25-802e-d048dcdd0675",
@@ -127,7 +204,7 @@
         "favicon": "https://j.onlyhit.us/favicon.ico",
         "tags": "",
         "votes": 144,
-        "active": true
+        "active": false
     },
     {
         "stationuuid": "c874a140-6938-49d6-b7a5-4e649fab2245",
@@ -167,7 +244,7 @@
         "favicon": "https://listen.moe/_nuxt/img/logo-square-64.248c1f3.png",
         "tags": "jpop",
         "votes": 2385,
-        "active": true
+        "active": false
     },
     {
         "stationuuid": "aec1097d-2993-4e36-9915-f6ed3dc47ef9",
@@ -177,7 +254,7 @@
         "favicon": "https://radio.menu/images/1/gotanno-love-gotanno-radio-89-2/webp",
         "tags": "anime,j-rock,japanese",
         "votes": 14,
-        "active": true
+        "active": false
     },
     {
         "stationuuid": "1bca74bf-82e7-4631-87b6-1e96be3bae43",
@@ -187,7 +264,7 @@
         "favicon": "https://static.wixstatic.com/ficons/1173e1_15807acf4a474b03a67c854178f38727~mv2.ico",
         "tags": "indie,jpop",
         "votes": 11,
-        "active": true
+        "active": false
     },
     {
         "stationuuid": "ce962d43-c800-4490-bfd0-09060ef05e9c",
@@ -207,7 +284,7 @@
         "favicon": "https://mmo.aiircdn.com/387/5e763985f1dab.png",
         "tags": "",
         "votes": 133,
-        "active": true
+        "active": false
     },
     {
         "stationuuid": "2119387e-f76a-449f-b15d-315ba83c2dfe",

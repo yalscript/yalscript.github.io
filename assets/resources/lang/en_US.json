@@ -160,5 +160,6 @@
   "display_only_kanji": "Display only kanji",
   "display_only_furigana": "Display only furigana",
   "favourite_stations": "Favourites",
-  "all_stations": "All stations"
+  "all_stations": "All stations",
+  "more_radio_station_info_through_link": "To get more information about the radio station, visit the following link:"
 }
