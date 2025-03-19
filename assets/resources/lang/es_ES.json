@@ -226,5 +226,16 @@
   "display_only_furigana": "Mostrar sólo furigana",
   "favourite_stations": "Favoritas",
   "all_stations": "Todas",
-  "more_radio_station_info_through_link": "Para obtener más información sobre la estación de radio, visita el siguiente enlace:"
+  "more_radio_station_info_through_link": "Para obtener más información sobre la estación de radio, visita el siguiente enlace:",
+  "Noun": "Sustantivo",
+  "Verb": "Verbo",
+  "Adverb": "Adverbio",
+  "Adjective": "Adjetivo",
+  "Pronoun": "Pronombre",
+  "Others": "Otros",
+  "word_type": "Tipo de palabra",
+  "study_vocabulary_by_japonia_grade": "Estudia el vocabulario en el orden en el que se enseña en Japonia",
+  "study_vocabulary_by_word_type": "Estudia el vocabulario en función del tipo de palabra",
+  "study_hiragana": "Estudia el silabario Hiragana",
+  "study_katakana": "Estudia el silabario Katakana"
 }

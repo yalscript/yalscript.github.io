@@ -226,5 +226,16 @@
   "display_only_furigana": "Display only furigana",
   "favourite_stations": "Favourites",
   "all_stations": "All stations",
-  "more_radio_station_info_through_link": "To get more information about the radio station, visit the following link:"
+  "more_radio_station_info_through_link": "To get more information about the radio station, visit the following link:",
+  "Noun": "Noun",
+  "Verb": "Verb",
+  "Adverb": "Adverb",
+  "Adjective": "Adjective",
+  "Pronoun": "Pronoun",
+  "Others": "Others",
+  "word_type": "Word type",
+  "study_vocabulary_by_japonia_grade": "Study vocabulary in the order it is taught in Japonia",
+  "study_vocabulary_by_word_type": "Study vocabulary based on word type",
+  "study_hiragana": "Study the Hiragana syllabary",
+  "study_katakana": "Study the Katakana syllabary"
 }
