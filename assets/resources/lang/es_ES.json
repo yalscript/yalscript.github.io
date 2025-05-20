@@ -88,6 +88,8 @@
   "unexpected_error": "Ha habido un error inesperado.",
   "searcher": "Buscador",
   "searcher_button_description": "Busca palabras para obtener toda la información que necesites",
+  "kanji_finder": "Buscador de kanjis",
+  "kanji_finder_button_description": "¿No conoces un kanji? Dibújalo y encuentra su significado",
   "features": "Características",
   "about_us": "Sobre nosotros",
   "app_description_section_text": "Descubre la belleza del idioma japonés con Nekolingo, la aplicación definitiva para dominar el japonés. Ya seas principiante o tengas un nivel más avanzado, la app ofrece una experiencia divertida, interactiva e inmersiva adaptada a tus necesidades.",
@@ -237,5 +239,14 @@
   "study_vocabulary_by_japonia_grade": "Estudia el vocabulario en el orden en el que se enseña en Japonia",
   "study_vocabulary_by_word_type": "Estudia el vocabulario en función del tipo de palabra",
   "study_hiragana": "Estudia el silabario Hiragana",
-  "study_katakana": "Estudia el silabario Katakana"
+  "study_katakana": "Estudia el silabario Katakana",
+  "loading": "Cargando...",
+  "high_score": "Mejor puntuación",
+  "press_to_start": "Pulsa para empezar",
+  "hiragana_character": "Carácter hiragana",
+  "katakana_character": "Carácter katakana",
+  "info_not_found_for_character": "No tenemos información sobre este carácter, pero puedes buscarlo en internet pulsando este botón:",
+  "search_information": "Buscar información",
+  "meaning_of": "Significado de",
+  "draw_element_on_this_surface": "Dibuja el elemento sobre esta superficie"
 }

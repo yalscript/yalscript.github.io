@@ -38,6 +38,8 @@
   "radio_button_description": "Pick a radio station and listen Japanese music and much more!",
   "searcher": "Searcher",
   "searcher_button_description": "Search for words to get all the information you need",
+  "kanji_finder": "Kanji Finder",
+  "kanji_finder_button_description": "Don't know a kanji? Draw it and find out its meaning",
   "lessons": "Lecciones",
   "search": "Buscar",
   "lecture": "Lectura",
@@ -237,5 +239,14 @@
   "study_vocabulary_by_japonia_grade": "Study vocabulary in the order it is taught in Japonia",
   "study_vocabulary_by_word_type": "Study vocabulary based on word type",
   "study_hiragana": "Study the Hiragana syllabary",
-  "study_katakana": "Study the Katakana syllabary"
+  "study_katakana": "Study the Katakana syllabary",
+  "loading": "Loading...",
+  "high_score": "High score",
+  "press_to_start": "Press to start",
+  "hiragana_character": "Hiragana character",
+  "katakana_character": "Katakana character",
+  "info_not_found_for_character": "We don't have information about this character, but you can search it on the internet clicking this button:",
+  "search_information": "Search information",
+  "meaning_of": "Meaning of",
+  "draw_element_on_this_surface": "Draw the element on this surface"
 }
