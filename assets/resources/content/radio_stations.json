@@ -2,8 +2,8 @@
     {
         "stationuuid": "60e28434-3aff-4225-9105-0d258f7e160e",
         "name": "Japan Hits",
-        "url": "https://cast1.torontocast.com/JapanHits",
-        "url_resolved": "http://cast1.torontocast.com/JHits",
+        "url": "https://quincy.torontocast.com/JapanHits",
+        "url_resolved": "http://quincy.torontocast.com/JHits",
         "favicon": "https://asiadreamradio.torontocast.stream/stations/en/images/en/japanhits.png",
         "site_url": "https://asiadreamradio.com",
         "tags": "All J-Pop",
@@ -35,8 +35,8 @@
     {
         "stationuuid": "ca0c950e-fcca-454b-a0dd-211de5fdb799",
         "name": "J-Pop Sakura 懐かしい",
-        "url": "https://cast1.torontocast.com/jsakura",
-        "url_resolved": "http://cast1.torontocast.com/natsu",
+        "url": "https://quincy.torontocast.com/SakuraN",
+        "url_resolved": "http://quincy.torontocast.com/JSakura",
         "favicon": "https://asiadreamradio.torontocast.stream/stations/en/images/en/natsukashii.png",
         "site_url": "https://asiadreamradio.com",
         "tags": "Classic hits",
