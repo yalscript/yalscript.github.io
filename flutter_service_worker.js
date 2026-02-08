@@ -6672,8 +6672,8 @@ const RESOURCES = {"flutter.js": "888483df48293866f9f41d3d9274a779",
 "tflite/tflite_web_api_cc_threaded.wasm": "7b024d51a041de73a4d1b26e0473cd02",
 "tflite/tf-tflite.min.js": "55c66045fb9b091beb836d48d9582175",
 "favicon.png": "14ff5b3d576edbb0882f20832843375f",
-"flutter_bootstrap.js": "987543280bc9a149bddf54d3316d643a",
-"version.json": "8fa0a13aada09c2bde9983e715224f49",
+"flutter_bootstrap.js": "22f4e19aa4e8e9c2ddff7c707af33161",
+"version.json": "5ada924c612e1f40ef6b9c5fa16a5d84",
 "main.dart.js": "82e7e2b5609b6f91b224febe4b960bd6"};
 // The application shell files that are downloaded before a service worker can
 // start.
