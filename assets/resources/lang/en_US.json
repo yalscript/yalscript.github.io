@@ -287,5 +287,17 @@
   "error_generating_search_word_puzzle": "The word search puzzle could not be generated. Please try again later",
   "navigate_back": "Return",
   "found_words": "Found words",
-  "allowed_directions": "Allowed directions"
+  "allowed_directions": "Allowed directions",
+  "teKei": "Connecting form",
+  "taKei": "Past tense form",
+  "naiKei": "Negative form",
+  "jishoKei": "Dictionary form",
+  "kanouKei": "Potential form",
+  "ikouKei": "Volitional form",
+  "meireiKei": "Imperative form",
+  "kinshiKei": "Prohibition form",
+  "joukenKei": "Conditional form",
+  "ukemiKei": "Passive form",
+  "shiekiKei": "Causative form",
+  "sonkeiKei": "Honorific form"
 }

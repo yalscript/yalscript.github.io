@@ -287,5 +287,17 @@
   "error_generating_search_word_puzzle": "No se ha podido generar la sopa de letras. Pruébelo de nuevo más tarde",
   "navigate_back": "Volver",
   "found_words": "Palabras encontradas",
-  "allowed_directions": "Direcciones permitidas"
+  "allowed_directions": "Direcciones permitidas",
+  "teKei": "Forma de conexión",
+  "taKei": "Forma del pasado",
+  "naiKei": "Forma negativa",
+  "jishoKei": "Forma diccionario",
+  "kanouKei": "Forma potencial",
+  "ikouKei": "Forma volitiva",
+  "meireiKei": "Forma imperativa",
+  "kinshiKei": "Forma de prohibición",
+  "joukenKei": "Forma condicional",
+  "ukemiKei": "Forma pasiva",
+  "shiekiKei": "Forma causativa",
+  "sonkeiKei": "Forma honorífica"
 }
